@@ -1,0 +1,894 @@
+# Tesserae V3 results
+#
+# session   = 00000057
+# source    = vergil.aeneid
+# target    = statius.achilleid.part.1.1,1-103
+# unit      = line
+# feature   = stem
+# stopsize  = 10
+# stbasis   = both
+# stopwords = et qui quis hic in ego tu neque ille iam
+# max_dist  = 10
+# dibasis   = freq
+# cutoff    = 5
+# filter    = off
+
+"RESULT"	"TARGET_LOC"	"TARGET_TXT"	"SOURCE_LOC"	"SOURCE_TXT"	"SHARED"	"SCORE"
+1	"stat. ach. 1.2"	"**progeniem** et patrio vetitam succedere **caelo**,"	"verg. aen. 1.250"	"nos, tua **progenies**, **caeli** quibus adnuis arcem,"	"progenies; caelum-caelus"	8
+2	"stat. ach. 1.2"	"**progeniem** et patrio vetitam succedere **caelo**,"	"verg. aen. 6.790"	"**progenies** magnum **caeli** ventura sub axem."	"progenies; caelum-caelus"	8
+3	"stat. ach. 1.3"	"diva, refer, quamquam acta **viri** multum inclita **cantu**"	"verg. aen. 1.1"	"Arma **virumque** **cano**, Troiae qui primus ab oris"	"uir-uirus; cano"	9
+4	"stat. ach. 1.3"	"diva, refer, quamquam **acta** **viri** multum inclita cantu"	"verg. aen. 1.240"	"nunc eadem fortuna **viros** tot casibus **actos**"	"uir; ago"	9
+5	"stat. ach. 1.3"	"diva, refer, quamquam acta viri **multum** inclita **cantu**"	"verg. aen. 2.124"	"flagitat; et mihi iam **multi** crudele **canebant**"	"multus; cano"	9
+6	"stat. ach. 1.3"	"**diva**, refer, **quamquam** acta viri multum inclita cantu"	"verg. aen. 2.402"	"Heu nihil invitis fas **quemquam** fidere **divis**!"	"diua-diuus; quisquam"	9
+7	"stat. ach. 1.3"	"**diva**, refer, quamquam **acta** viri multum inclita cantu"	"verg. aen. 3.5"	"auguriis **agimur** **divom**, classemque sub ipsa"	"diuus; ago"	9
+8	"stat. ach. 1.3"	"**diva**, refer, quamquam **acta** viri multum inclita cantu"	"verg. aen. 3.114"	"Ergo **agite**, et, **divom** ducunt qua iussa, sequamur;"	"diuus; ago"	8
+9	"stat. ach. 1.3"	"diva, refer, quamquam acta **viri** **multum** inclita cantu"	"verg. aen. 4.3"	"**Multa** **viri** virtus animo, **multusque** recursat"	"multus; uir-uirus"	9
+10	"stat. ach. 1.3"	"diva, **refer**, quamquam acta viri **multum** inclita cantu"	"verg. aen. 4.333"	"Tandem pauca **refert**: “Ego te, quae **plurima** fando"	"multus; refero"	7
+11	"stat. ach. 1.3"	"diva, refer, quamquam acta **viri** **multum** inclita cantu"	"verg. aen. 5.433"	"**Multa** **viri** nequiquam inter se volnera iactant,"	"multus; uir-uirus"	8
+12	"stat. ach. 1.3"	"diva, refer, quamquam acta **viri** multum inclita **cantu**"	"verg. aen. 6.165"	"aere ciere **viros**, Martemque accendere **cantu**."	"uir; cano-cantus"	8
+13	"stat. ach. 1.3"	"diva, refer, quamquam **acta** viri **multum** inclita cantu"	"verg. aen. 7.498"	"nec dextrae erranti deus afuit, **actaque** **multo**"	"multus; acte-actum-ago"	10
+14	"stat. ach. 1.3"	"diva, refer, quamquam acta **viri** **multum** inclita cantu"	"verg. aen. 7.535"	"Corpora **multa** **virum** circa seniorque Galaesus,"	"multus; uir-uirus"	8
+15	"stat. ach. 1.3"	"diva, refer, quamquam acta **viri** **multum** inclita cantu"	"verg. aen. 8.13"	"edoceat **multasque** **viro** se adiungere gentis"	"multus; uir-uirus"	10
+16	"stat. ach. 1.3"	"diva, refer, quamquam acta **viri** **multum** inclita cantu"	"verg. aen. 9.357"	"**Multa** **virum** solido argento perfecta relinquunt"	"multus; uir-uirus"	8
+17	"stat. ach. 1.3"	"diva, refer, quamquam acta **viri** multum inclita **cantu**"	"verg. aen. 9.777"	"[Semper equos atque arma **virum** pugnasque **canebat**.]"	"uir-uirus; cano"	8
+18	"stat. ach. 1.3"	"**diva**, refer, **quamquam** acta viri multum inclita cantu"	"verg. aen. 10.65"	"Aenean hominum **quisquam** **divomque** subegit"	"diuus; quisquam"	9
+19	"stat. ach. 1.3"	"diva, refer, quamquam acta **viri** **multum** inclita cantu"	"verg. aen. 10.662"	"obvia **multa** **virum** demittit corpora morti:"	"multus; uir-uirus"	8
+20	"stat. ach. 1.3"	"diva, refer, quamquam **acta** viri **multum** inclita cantu"	"verg. aen. 10.708"	"**actus** aper, **multos** Vesulus quem pinifer annos"	"multus; ago"	8
+21	"stat. ach. 1.3"	"diva, refer, quamquam acta **viri** **multum** inclita cantu"	"verg. aen. 11.205"	"**multa** **virum** terrae infodiunt avectaque partim"	"multus; uir-uirus"	8
+22	"stat. ach. 1.3"	"diva, refer, quamquam acta **viri** **multum** inclita cantu"	"verg. aen. 11.224"	"**multa** **virum** meritis sustentat fama tropaeis."	"multus; uir-uirus"	8
+23	"stat. ach. 1.3"	"diva, refer, **quamquam** acta viri **multum** inclita cantu"	"verg. aen. 11.312"	"Nec **quemquam** incuso: potuit quae **plurima** virtus"	"multus; quisquam"	8
+24	"stat. ach. 1.3"	"diva, **refer**, quamquam acta viri **multum** inclita cantu"	"verg. aen. 11.426"	"**rettulit** in melius, **multos** alterna revisens"	"multus; refero"	8
+25	"stat. ach. 1.3"	"diva, refer, quamquam **acta** **viri** multum inclita cantu"	"verg. aen. 11.645"	"**acta** tremit duplicatque **virum** transfixa dolore."	"uir-uirus; acte-actum-ago"	8
+26	"stat. ach. 1.3"	"diva, **refer**, quamquam acta **viri** multum inclita cantu"	"verg. aen. 12.112"	"certa **referre** **viros** et pacis dicere leges."	"uir; refero"	9
+27	"stat. ach. 1.3"	"**diva**, **refer**, quamquam acta viri multum inclita cantu"	"verg. aen. 12.286"	"pulsatos **referens** infecto foedere **divos**."	"diuus; refero"	9
+28	"stat. ach. 1.3"	"diva, refer, quamquam acta **viri** **multum** inclita cantu"	"verg. aen. 12.328"	"**Multa** **virum** volitans dat fortia corpora Leto,"	"multus; uir-uirus"	8
+29	"stat. ach. 1.4"	"Maeonio, sed **plura** vacant: nos ire **per** omnem —"	"verg. aen. 1.31"	"arcebat longe Latio, **multosque** **per** annos"	"multus; per"	8
+30	"stat. ach. 1.4"	"Maeonio, sed **plura** vacant: nos ire **per** omnem —"	"verg. aen. 1.305"	"At pius Aeneas, **per** noctem **plurima** volvens,"	"multus; per"	7
+31	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** **per** omnem —"	"verg. aen. 1.376"	"Troiae nomen **iit**, diversa **per** aequora vectos"	"eo; per"	9
+32	"stat. ach. 1.4"	"Maeonio, sed **plura** vacant: nos ire **per** omnem —"	"verg. aen. 1.628"	"Me quoque **per** **multos** similis fortuna labores"	"multus; per"	8
+33	"stat. ach. 1.4"	"Maeonio, sed **plura** vacant: nos ire **per** omnem —"	"verg. aen. 2.363"	"Urbs antiqua ruit, **multos** dominata **per** annos;"	"multus; per"	8
+34	"stat. ach. 1.4"	"Maeonio, sed **plura** vacant: nos ire **per** omnem —"	"verg. aen. 2.364"	"**plurima** **perque** vias sternuntur inertia passim"	"multus; per"	8
+35	"stat. ach. 1.4"	"Maeonio, sed **plura** vacant: nos ire **per** omnem —"	"verg. aen. 2.397"	"**multaque** **per** caecam congressi proelia noctem"	"multus; per"	8
+36	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 2.498"	"fertur in arva furens cumulo, camposque **per** **omnis**"	"per; omnis"	8
+37	"stat. ach. 1.4"	"Maeonio, sed **plura** vacant: nos ire **per** omnem —"	"verg. aen. 2.715"	"religione patrum **multos** servata **per** annos."	"multus; per"	8
+38	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 3.315"	"“vivo equidem, vitamque extrema **per** **omnia** duco;"	"per; omnis"	8
+39	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** **per** omnem —"	"verg. aen. 3.374"	"”Nate dea,---nam te maioribus **ire** **per** altum"	"eo-iris-irus; per"	7
+40	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** **per** omnem —"	"verg. aen. 4.173"	"Extemplo Libyae magnas **it** Fama **per** urbes---"	"eo; per"	7
+41	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 4.286"	"in partisque rapit varias **perque** **omnia** versat."	"per; omnis"	8
+42	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** **per** omnem —"	"verg. aen. 4.310"	"et mediis properas aquilonibus **ire** **per** altum,"	"eo-iris-irus; per"	7
+43	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** **per** omnem —"	"verg. aen. 4.381"	"**I**, sequere Italiam ventis, pete regna **per** undas."	"eo; per"	7
+44	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** **per** omnem —"	"verg. aen. 4.404"	"**it** nigrum campis agmen, praedamque **per** herbas"	"eo; per"	6
+45	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** **per** omnem —"	"verg. aen. 4.700"	"Ergo **Iris** croceis **per** caelum roscida pennis,"	"iris-irus; per"	9
+46	"stat. ach. 1.4"	"Maeonio, sed **plura** vacant: nos **ire** per omnem —"	"verg. aen. 5.75"	"Ille e concilio **multis** cum milibus **ibat**"	"multus; eo"	8
+47	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 5.392"	"requiquam memoratus Eryx? Ubi fama **per** **omnem**"	"per; omnis"	8
+48	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** per **omnem** —"	"verg. aen. 5.554"	"frenatis lucent in equis, quos **omnis** **euntes**"	"eo; omnis"	9
+49	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** per **omnem** —"	"verg. aen. 5.769"	"**ire** volunt, **omnemque** fugae perferre laborem."	"eo-iris-irus; omnis"	8
+50	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 5.786"	"urbem odiis satis est, nec poenam traxe **per** **omnem**:"	"per; omnis"	8
+51	"stat. ach. 1.4"	"Maeonio, **sed** plura vacant: nos **ire** per omnem —"	"verg. aen. 6.95"	"Tu ne cede malis, **sed** contra audentior **ito**,"	"sed; eo"	8
+52	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** **per** omnem —"	"verg. aen. 6.268"	"**Ibant** obscuri sola sub nocte **per** umbram,"	"eo; per"	7
+53	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** **per** omnem —"	"verg. aen. 6.386"	"**per** tacitum nemus **ire** pedemque advertere ripae,"	"eo-iris-irus; per"	6
+54	"stat. ach. 1.4"	"Maeonio, **sed** plura vacant: nos **ire** **per** omnem —"	"verg. aen. 6.461"	"**Sed** me iussa deum, quae nunc has **ire** **per** umbras,"	"sed; eo-iris-irus; per"	6
+55	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 6.537"	"et fors **omne** datum traherent **per** talia tempus;"	"per; omnis"	7
+56	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 6.565"	"ipsa deum poenas docuit, **perque** **omnia** duxit."	"per; omnis"	8
+57	"stat. ach. 1.4"	"Maeonio, sed **plura** vacant: nos ire **per** omnem —"	"verg. aen. 6.659"	"**plurimus** Eridani **per** silvam volvitur amnis."	"multus; per"	8
+58	"stat. ach. 1.4"	"Maeonio, sed **plura** vacant: nos ire per **omnem** —"	"verg. aen. 6.667"	"Musaeum ante **omnes**, medium nam **plurima** turba"	"multus; omnis"	8
+59	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** **per** omnem —"	"verg. aen. 6.684"	"**Isque** ubi tendentem adversum **per** gramina videt"	"eo; per"	7
+60	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 6.748"	"Has **omnes**, ubi mille rotam volvere **per** annos,"	"per; omnis"	7
+61	"stat. ach. 1.4"	"Maeonio, sed **plura** vacant: nos ire **per** omnem —"	"verg. aen. 7.60"	"sacra comam **multosque** metu servata **per** annos,"	"multus; per"	8
+62	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** per **omnem** —"	"verg. aen. 7.154"	"**ire** iubet, ramis velatos Palladis **omnis**,"	"eo-iris-irus; omnis"	7
+63	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 8.21"	"In partisque rapit varias **perque** **omnia** versat:"	"per; omnis"	8
+64	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 8.26"	"Nox erat, et terras animalia fessa **per** **omnis**"	"per; omnis"	8
+65	"stat. ach. 1.4"	"Maeonio, **sed** plura vacant: nos **ire** per omnem —"	"verg. aen. 8.162"	"Laomedontiaden, **sed** cunctis altior **ibat**"	"sed; eo"	6
+66	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** per **omnem** —"	"verg. aen. 8.705"	"desuper: **omnis** **eo** terrore Aegyptus et Indi,"	"eo; omnis"	9
+67	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** per **omnem** —"	"verg. aen. 9.25"	"Iamque **omnis** campis exercitus **ibat** apertis,"	"eo; omnis"	7
+68	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 9.38"	"hostis adest, heia!“ Ingenti clamore **per** **omnis**"	"per; omnis"	8
+69	"stat. ach. 1.4"	"Maeonio, sed **plura** vacant: nos ire **per** omnem —"	"verg. aen. 9.85"	"[Pinea silva mihi, **multos** dilecta **per** annos]"	"multus; per"	8
+70	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 9.174"	"**Omnis** **per** muros legio, sortita periclum,"	"per; omnis"	8
+71	"stat. ach. 1.4"	"Maeonio, **sed** **plura** vacant: nos ire per omnem —"	"verg. aen. 9.210"	"**Sed** siquis, quae **multa** vides discrimine tali,"	"sed; multus"	7
+72	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 9.224"	"Cetera **per** terras **omnis** animalia somno"	"per; omnis"	7
+73	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** per **omnem** —"	"verg. aen. 9.308"	"Protinus armati incedunt; quos **omnis** **euntis**"	"eo; omnis"	8
+74	"stat. ach. 1.4"	"Maeonio, **sed** **plura** vacant: nos ire per omnem —"	"verg. aen. 9.312"	"**multa** patri mandata dabat portanda: **sed** aurae"	"sed; multus"	7
+75	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** **per** omnem —"	"verg. aen. 9.418"	"Dum trepidant, **it** hasta Tago **per** tempus utrumque"	"eo; per"	6
+76	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 9.438"	"At Nisus ruit in medios solumque **per** **omnis**"	"per; omnis"	8
+77	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 9.498"	"Hoc fletu concussi animi, maestusque **per** **omnis**"	"per; omnis"	8
+78	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** **per** omnem —"	"verg. aen. 9.617"	"O vere Phrygiae, neque enim Phryges, **ite** **per** alta"	"eo; per"	8
+79	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** **per** omnem —"	"verg. aen. 9.664"	"**It** clamor totis **per** propugnacula muris,"	"eo; per"	6
+80	"stat. ach. 1.4"	"Maeonio, **sed** plura vacant: nos ire per **omnem** —"	"verg. aen. 10.302"	"**omnes** innocuae, **sed** non puppis tua, Tarchon."	"sed; omnis"	7
+81	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 10.854"	"**omnis** **per** mortis animam sontem ipse dedissem!"	"per; omnis"	8
+82	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 11.422"	"sanguine, sunt illis sua funera parque **per** **omnis**"	"per; omnis"	8
+83	"stat. ach. 1.4"	"Maeonio, sed **plura** vacant: nos ire **per** omnem —"	"verg. aen. 11.581"	"**Multae** illam frustra Tyrrhena **per** oppida matres"	"multus; per"	8
+84	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** **per** omnem —"	"verg. aen. 12.452"	"**it** mare **per** medium; miseris heu praescia longe"	"eo; per"	7
+85	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos ire **per** **omnem** —"	"verg. aen. 12.530"	"nomina **per** regesque actum genus **omne** Latinos,"	"per; omnis"	7
+86	"stat. ach. 1.4"	"Maeonio, sed **plura** vacant: nos ire **per** omnem —"	"verg. aen. 12.601"	"**multaque** **per** maestum demens effata furorem"	"multus; per"	8
+87	"stat. ach. 1.4"	"Maeonio, sed plura vacant: nos **ire** **per** omnem —"	"verg. aen. 12.881"	"nunc certe et misero fratri comes **ire** **per** umbras!"	"eo-iris-irus; per"	7
+88	"stat. ach. 1.5"	"**sic** amor est — heroa **velis** Scyroque latentem"	"verg. aen. 1.22"	"venturum excidio Libyae: **sic** **volvere** Parcas."	"uolo; sic"	8
+89	"stat. ach. 1.5"	"**sic** amor **est** — heroa velis Scyroque latentem"	"verg. aen. 1.386"	"passa Venus medio **sic** interfata dolore **est**:"	"sic; sum"	5
+90	"stat. ach. 1.5"	"**sic** amor **est** — heroa velis Scyroque latentem"	"verg. aen. 1.444"	"monstrarat, caput acris equi; **sic** nam **fore** bello"	"sic; sum"	7
+91	"stat. ach. 1.5"	"**sic** amor **est** — heroa velis Scyroque latentem"	"verg. aen. 1.614"	"casu deinde viri tanto, et **sic** ore locuta **est**:"	"sic; sum"	5
+92	"stat. ach. 1.5"	"sic amor **est** — heroa **velis** Scyroque latentem"	"verg. aen. 1.733"	"**esse** **velis**, nostrosque huius meminisse minores."	"sum; uela-uelum-uolo"	8
+93	"stat. ach. 1.5"	"**sic** amor **est** — heroa velis Scyroque latentem"	"verg. aen. 3.463"	"Quae postquam vates **sic** ore effatus amico **est**,"	"sic; sum"	5
+94	"stat. ach. 1.5"	"sic **amor** **est** — heroa velis Scyroque latentem"	"verg. aen. 3.487"	"**sint**, puer, et longum Andromachae testentur **amorem**,"	"amor; sum"	7
+95	"stat. ach. 1.5"	"**sic** amor **est** — heroa velis Scyroque latentem"	"verg. aen. 4.107"	"**sic** contra **est** ingressa Venus: ”Quis talia demens"	"sic; sum"	5
+96	"stat. ach. 1.5"	"sic amor **est** — heroa **velis** Scyroque latentem"	"verg. aen. 4.111"	"**esse** **velit** Tyriis urbem Troiaque profectis,"	"uolo; sum"	8
+97	"stat. ach. 1.5"	"sic **amor** **est** — heroa velis Scyroque latentem"	"verg. aen. 4.347"	"hic **amor**, haec patria **est**. Si te Karthaginis arces,"	"amo-amor; sum"	6
+98	"stat. ach. 1.5"	"sic **amor** **est** — heroa velis Scyroque latentem"	"verg. aen. 4.370"	"Num lacrimas victus dedit, aut miseratus **amantem** **est**?"	"amo; sum"	8
+99	"stat. ach. 1.5"	"sic **amor** **est** — heroa velis Scyroque latentem"	"verg. aen. 4.624"	"munera. Nullus **amor** populis, nec foedera **sunto**."	"amo-amor; sum"	9
+100	"stat. ach. 1.5"	"sic amor **est** — heroa **velis** Scyroque latentem"	"verg. aen. 5.28"	"Flecte viam **velis**. An **sit** mihi gratior ulla,"	"sum; uela-uelum-uolo"	8
+101	"stat. ach. 1.5"	"**sic** amor est — heroa **velis** Scyroque latentem"	"verg. aen. 5.50"	"semper honoratum---**sic** di **voluistis**---habebo."	"uolo; sic"	9
+102	"stat. ach. 1.5"	"sic amor **est** — **heroa** velis Scyroque latentem"	"verg. aen. 5.289"	"circus **erat**; quo se multis cum milibus **heros**"	"heros; sum"	7
+103	"stat. ach. 1.5"	"**sic** amor est — **heroa** velis Scyroque latentem"	"verg. aen. 5.459"	"culminibus crepitant, **sic** densis ictibus **heros**"	"sic; heros"	7
+104	"stat. ach. 1.5"	"sic **amor** **est** — heroa velis Scyroque latentem"	"verg. aen. 5.572"	"**esse** sui dederat monumentum et pignus **amoris**."	"amor; sum"	8
+105	"stat. ach. 1.5"	"sic **amor** **est** — heroa velis Scyroque latentem"	"verg. aen. 6.129"	"hoc opus, hic labor **est**. Pauci, quos aequus **amavit**"	"amo; sum"	9
+106	"stat. ach. 1.5"	"sic **amor** **est** — heroa velis Scyroque latentem"	"verg. aen. 6.133"	"Quod si tantus **amor** menti, si tanta cupido **est**,"	"amo-amor; sum"	6
+107	"stat. ach. 1.5"	"**sic** amor **est** — heroa velis Scyroque latentem"	"verg. aen. 6.321"	"Olli **sic** breviter fata **est** longaeva sacerdos:"	"sic; sum"	5
+108	"stat. ach. 1.5"	"sic **amor** **est** — heroa velis Scyroque latentem"	"verg. aen. 6.455"	"demisit lacrimas, dulcique adfatus **amore** **est**:"	"amor; sum"	7
+109	"stat. ach. 1.5"	"sic **amor** **est** — heroa velis Scyroque latentem"	"verg. aen. 6.526"	"scilicet id magnum sperans **fore** munus **amanti**,"	"amo; sum"	9
+110	"stat. ach. 1.5"	"**sic** amor **est** — heroa velis Scyroque latentem"	"verg. aen. 6.666"	"Quos circumfusos **sic** **est** adfata Sybilla,"	"sic; sum"	6
+111	"stat. ach. 1.5"	"**sic** amor **est** — heroa velis Scyroque latentem"	"verg. aen. 6.690"	"**Sic** equidem ducebam animo rebarque **futurum**,"	"sic; sum"	8
+112	"stat. ach. 1.5"	"**sic** amor **est** — heroa velis Scyroque latentem"	"verg. aen. 7.607"	"**Sunt** geminae belli portae (**sic** nomine dicunt)"	"sic; sum"	6
+113	"stat. ach. 1.5"	"**sic** amor **est** — heroa velis Scyroque latentem"	"verg. aen. 9.5"	"Ad quem **sic** roseo Thaumantias ore locuta **est**:"	"sic; sum"	5
+114	"stat. ach. 1.5"	"sic **amor** **est** — heroa velis Scyroque latentem"	"verg. aen. 9.182"	"His **amor** unus **erat**, pariterque in bella ruebant:"	"amo-amor; sum"	7
+115	"stat. ach. 1.5"	"sic amor **est** — heroa velis Scyroque **latentem**"	"verg. aen. 9.381"	"Silva **fuit** **late** dumis atque ilice nigra"	"lateo; sum"	7
+116	"stat. ach. 1.5"	"sic amor **est** — heroa velis Scyroque **latentem**"	"verg. aen. 9.579"	"et laevo infixa **est** **lateri** manus abditaque intus"	"lateo; sum"	7
+117	"stat. ach. 1.5"	"sic amor est — **heroa** **velis** Scyroque latentem"	"verg. aen. 10.584"	"dicta **volant** Ligeri. Sed non et Trous **heros**"	"uolo; heros"	8
+118	"stat. ach. 1.5"	"sic **amor** **est** — heroa **velis** Scyroque latentem"	"verg. aen. 10.614"	"**vis** in **amore** **foret**, non hoc mihi namque negares,"	"amor; uolo; sum"	8
+119	"stat. ach. 1.5"	"sic amor **est** — heroa **velis** Scyroque latentem"	"verg. aen. 10.777"	"iecit; at illa **volans** clipeo **est** excussa proculque"	"uolo; sum"	7
+120	"stat. ach. 1.5"	"sic amor **est** — heroa **velis** Scyroque latentem"	"verg. aen. 11.148"	"At non Evandrum potis **est** **vis** ulla tenere,"	"uolo; sum"	7
+121	"stat. ach. 1.5"	"sic amor **est** — heroa **velis** Scyroque latentem"	"verg. aen. 11.303"	"et **vellem** et **fuerat** melius, non tempore tali"	"uolo; sum"	8
+122	"stat. ach. 1.5"	"sic amor **est** — heroa **velis** Scyroque latentem"	"verg. aen. 11.584"	"intemerata colit. “**Vellem** haud correpta **fuisset**"	"uolo; sum"	8
+123	"stat. ach. 1.5"	"**sic** amor **est** — heroa velis Scyroque latentem"	"verg. aen. 12.138"	"Extemplo Turni **sic** **est** adfata sororem"	"sic; sum"	6
+124	"stat. ach. 1.5"	"**sic** **amor** est — heroa velis Scyroque latentem"	"verg. aen. 12.282"	"**sic** omnis **amor** unus habet decernere ferro."	"amo-amor; sic"	7
+125	"stat. ach. 1.5"	"sic amor **est** — heroa velis Scyroque **latentem**"	"verg. aen. 12.432"	"Postquam habilis **lateri** clipeus loricaque tergo **est**,"	"lateo; sum"	7
+126	"stat. ach. 1.5"	"sic amor **est** — heroa **velis** Scyroque latentem"	"verg. aen. 12.650"	"Vix ea fatus **erat**: medios **volat** ecce per hostis"	"uolo; sum"	7
+127	"stat. ach. 1.7"	"sistere, **sed** tota iuvenem deducere **Troia**."	"verg. aen. 4.312"	"ignotas peteres, **sed** **Troia** antiqua maneret,"	"sed; troia-troius"	6
+128	"stat. ach. 1.7"	"sistere, sed **tota** iuvenem **deducere** Troia."	"verg. aen. 4.398"	"**deducunt** **toto** naves: natat uncta carina;"	"deduco; totus"	9
+129	"stat. ach. 1.7"	"sistere, **sed** tota iuvenem deducere **Troia**."	"verg. aen. 8.530"	"Obstipuere animis alii, **sed** **Troius** heros"	"sed; troius"	7
+130	"stat. ach. 1.7"	"sistere, sed **tota** **iuvenem** deducere Troia."	"verg. aen. 10.816"	"per medium Aeneas **iuvenem** **totumque** recondit."	"iuuenis; totus"	9
+131	"stat. ach. 1.7"	"sistere, **sed** **tota** iuvenem deducere Troia."	"verg. aen. 11.631"	"Tertia **sed** postquam congressi in proelia **totas**"	"sed; totus"	9
+132	"stat. ach. 1.8"	"tu **modo**, **si** veterem digno deplevimus haustu,"	"verg. aen. 4.109"	"**si** **modo**, quod memoras, factum fortuna sequatur."	"si; modo-modus"	7
+133	"stat. ach. 1.8"	"tu **modo**, **si** veterem digno deplevimus haustu,"	"verg. aen. 5.25"	"**si** **modo** rite memor servata remetior astra.“"	"si; modo-modus"	7
+134	"stat. ach. 1.8"	"tu modo, **si** veterem **digno** deplevimus haustu,"	"verg. aen. 6.173"	"aemulus exceptum Triton, **si** credere **dignum** est,"	"si; dignus"	8
+135	"stat. ach. 1.8"	"tu **modo**, **si** veterem digno deplevimus haustu,"	"verg. aen. 7.263"	"Ipse **modo** Aeneas, nostri **si** tanta cupido est,"	"si; modo-modus"	7
+136	"stat. ach. 1.9"	"**da** fontes mihi, Phoebe, novos **ac** fronde secunda"	"verg. aen. 1.409"	"non **datur**, **ac** veras audire et reddere voces?“"	"atque; do"	7
+137	"stat. ach. 1.9"	"**da** fontes mihi, Phoebe, novos **ac** fronde secunda"	"verg. aen. 1.687"	"cum **dabit** amplexus **atque** oscula dulcia figet,"	"atque; do"	7
+138	"stat. ach. 1.9"	"da fontes mihi, Phoebe, **novos** **ac** fronde secunda"	"verg. aen. 2.796"	"**Atque** hic ingentem comitum adfluxisse **novorum**"	"nouus; atque"	9
+139	"stat. ach. 1.9"	"**da** fontes mihi, Phoebe, novos **ac** fronde secunda"	"verg. aen. 3.89"	"**Da**, pater, augurium, **atque** animis inlabere nostris.”"	"atque; do"	7
+140	"stat. ach. 1.9"	"**da** fontes mihi, Phoebe, novos **ac** fronde secunda"	"verg. aen. 3.611"	"**dat** iuveni, **atque** animum praesenti pignore firmat."	"atque; do"	6
+141	"stat. ach. 1.9"	"da fontes mihi, Phoebe, novos **ac** **fronde** secunda"	"verg. aen. 4.148"	"**fronde** premit crinem fingens **atque** implicat auro;"	"frondeo-frons; atque"	7
+142	"stat. ach. 1.9"	"da fontes mihi, Phoebe, novos **ac** **fronde** secunda"	"verg. aen. 4.477"	"consilium voltu tegit, **ac** spem **fronte** serenat:"	"atque; frons"	8
+143	"stat. ach. 1.9"	"da fontes mihi, Phoebe, novos **ac** **fronde** secunda"	"verg. aen. 5.661"	"pars spoliant aras, **frondem** **ac** virgulta facesque"	"atque; frons"	10
+144	"stat. ach. 1.9"	"da fontes mihi, **Phoebe**, novos **ac** fronde secunda"	"verg. aen. 6.35"	"adforet, **atque** una **Phoebi** Triviaeque sacerdos,"	"atque; phoebus"	8
+145	"stat. ach. 1.9"	"da fontes mihi, Phoebe, **novos** ac **fronde** secunda"	"verg. aen. 6.206"	"**fronde** virere **nova**, quod non sua seminat arbos,"	"frondeo-frons; nouus"	8
+146	"stat. ach. 1.9"	"**da** fontes mihi, **Phoebe**, novos ac fronde secunda"	"verg. aen. 6.628"	"Haec ubi dicta **dedit** **Phoebi** longaeva sacerdos:"	"phoebus; do"	8
+147	"stat. ach. 1.9"	"**da** fontes mihi, Phoebe, novos **ac** fronde secunda"	"verg. aen. 7.24"	"**atque** fugam **dedit** et praeter vada fervida vexit."	"atque; do"	6
+148	"stat. ach. 1.9"	"**da** fontes mihi, Phoebe, **novos** ac fronde secunda"	"verg. aen. 7.554"	"quae fors prima **dedit** sanguis **novus** imbuit arma."	"nouus; do"	8
+149	"stat. ach. 1.9"	"**da** fontes mihi, Phoebe, novos **ac** fronde secunda"	"verg. aen. 9.263"	"Bina **dabo** argento perfecta **atque** aspera signis"	"atque; do"	7
+150	"stat. ach. 1.9"	"da fontes mihi, **Phoebe**, novos **ac** fronde secunda"	"verg. aen. 9.661"	"Ergo avidum pugnae dictis **ac** numine **Phoebi**"	"atque; phoebus"	8
+151	"stat. ach. 1.9"	"**da** fontes mihi, Phoebe, novos **ac** fronde secunda"	"verg. aen. 10.265"	"Strymoniae **dant** signa grues **atque** aethera tranant"	"atque; do"	6
+152	"stat. ach. 1.9"	"**da** fontes mihi, Phoebe, novos **ac** fronde secunda"	"verg. aen. 10.629"	"mente **dares** **atque** haec Turno rata vita maneret?"	"atque; do"	8
+153	"stat. ach. 1.9"	"**da** fontes mihi, Phoebe, novos **ac** fronde secunda"	"verg. aen. 11.565"	"**dat** sese fluvio **atque** hastam cum virgine victor"	"atque; do"	6
+154	"stat. ach. 1.9"	"da fontes mihi, Phoebe, **novos** **ac** fronde secunda"	"verg. aen. 12.424"	"excidit, **atque** **novae** rediere in pristina vires."	"nouus; atque"	9
+155	"stat. ach. 1.10"	"necte **comas**: neque enim Aonium **nemus** advena pulso"	"verg. aen. 2.704"	"Cedo equidem, nec, **nate**, tibi **comes** ire recuso.”"	"come-como; no"	7
+156	"stat. ach. 1.10"	"necte comas: neque **enim** Aonium nemus advena **pulso**"	"verg. aen. 5.395"	"**pulsa** metu; sed **enim** gelidus tardante senecta"	"pello-pulso; enim"	8
+157	"stat. ach. 1.11"	"nec mea nunc primis augescunt **tempora** **vittis**."	"verg. aen. 2.133"	"et salsae fruges, et circum **tempora** **vittae**:"	"tempus; uitta"	9
+158	"stat. ach. 1.11"	"nec mea nunc **primis** augescunt **tempora** vittis."	"verg. aen. 2.268"	"**Tempus** erat, quo **prima** quies mortalibus aegris"	"primus; tempus"	7
+159	"stat. ach. 1.11"	"nec mea **nunc** **primis** augescunt tempora vittis."	"verg. aen. 2.375"	"Pergama; vos celsis **nunc** **primum** a navibus itis.”"	"primus; nunc"	7
+160	"stat. ach. 1.11"	"nec mea nunc primis augescunt **tempora** **vittis**."	"verg. aen. 3.81"	"**vittis** et sacra redimitus **tempora** lauro,"	"tempus; uitta"	8
+161	"stat. ach. 1.11"	"nec **mea** nunc **primis** augescunt tempora vittis."	"verg. aen. 4.28"	"Ille **meos**, **primus** qui me sibi iunxit, amores"	"primus; meus"	8
+162	"stat. ach. 1.11"	"nec **mea** nunc **primis** augescunt tempora vittis."	"verg. aen. 4.342"	"urbem Troianam **primum** dulcisque **meorum**"	"meum-meus; primus"	8
+163	"stat. ach. 1.11"	"nec **mea** nunc **primis** augescunt tempora vittis."	"verg. aen. 4.548"	"Tu lacrimis evicta **meis**, tu **prima** furentem"	"meum-meus; primus"	8
+164	"stat. ach. 1.11"	"nec mea **nunc** primis augescunt **tempora** vittis."	"verg. aen. 4.627"	"**nunc**, olim, quocumque dabunt se **tempore** vires."	"nunc; tempus"	7
+165	"stat. ach. 1.11"	"nec mea nunc primis augescunt **tempora** **vittis**."	"verg. aen. 4.637"	"sic veniat; tuque ipsa pia tege **tempora** **vitta**."	"tempus; uitta"	8
+166	"stat. ach. 1.11"	"nec **mea** **nunc** primis augescunt tempora vittis."	"verg. aen. 4.654"	"et **nunc** magna **mei** sub terras ibit imago."	"meum-meus; nunc"	8
+167	"stat. ach. 1.11"	"nec mea nunc primis augescunt **tempora** **vittis**."	"verg. aen. 6.665"	"omnibus his nivea cinguntur **tempora** **vitta**."	"tempus; uitta"	8
+168	"stat. ach. 1.11"	"nec **mea** nunc primis augescunt **tempora** vittis."	"verg. aen. 6.691"	"**tempora** dinumerans“ nec me **mea** cura fefellit."	"meo-meum-meus; tempus"	6
+169	"stat. ach. 1.11"	"nec **mea** **nunc** primis augescunt tempora vittis."	"verg. aen. 7.267"	"vos contra regi **mea** **nunc** mandata referte."	"nunc; meo-meum-meus"	7
+170	"stat. ach. 1.11"	"nec **mea** **nunc** primis augescunt tempora vittis."	"verg. aen. 8.168"	"frenaque bina **meus** quae **nunc** habet aurea Pallas."	"meus; nunc"	8
+171	"stat. ach. 1.11"	"nec mea **nunc** primis augescunt **tempora** vittis."	"verg. aen. 9.12"	"Quid dubitas? **Nunc** **tempus** equos, **nunc** poscere currus."	"nunc; tempus"	7
+172	"stat. ach. 1.11"	"nec mea nunc **primis** augescunt **tempora** vittis."	"verg. aen. 9.80"	"**Tempore** quo **primum** Phrygia formabat in Ida"	"primus; tempus"	8
+173	"stat. ach. 1.11"	"nec **mea** **nunc** primis augescunt tempora vittis."	"verg. aen. 10.371"	"Opemque **meam**, patriae quae **nunc** subit aemula laudi,"	"meus; nunc"	9
+174	"stat. ach. 1.11"	"nec mea nunc primis augescunt **tempora** **vittis**."	"verg. aen. 10.538"	"infula cui sacra redimibat **tempora** **vitta**,"	"tempus; uitta"	8
+175	"stat. ach. 1.11"	"nec **mea** **nunc** primis augescunt tempora vittis."	"verg. aen. 11.586"	"cara mihi comitumque foret **nunc** una **mearum**."	"meus; nunc"	8
+176	"stat. ach. 1.11"	"nec **mea** **nunc** primis augescunt **tempora** vittis."	"verg. aen. 12.96"	"hasta **meos**, **nunc** **tempus** adest: te maximus Actor"	"meus; nunc; tempus"	8
+177	"stat. ach. 1.11"	"nec **mea** **nunc** primis augescunt tempora vittis."	"verg. aen. 12.436"	"fortunam ex aliis. **Nunc** te **mea** dextera bello"	"nunc; meo-meum-meus"	7
+178	"stat. ach. 1.12"	"scit Dircaeus ager meque **inter** prisca **parentum**"	"verg. aen. 2.681"	"Namque manus **inter** maestorumque ora **parentum**"	"parens; inter"	7
+179	"stat. ach. 1.12"	"scit Dircaeus **ager** meque **inter** prisca parentum"	"verg. aen. 8.492"	"Ille **inter** caedem Rutulorum elapsus in **agros**"	"inter; ager"	7
+180	"stat. ach. 1.13"	"**nomina** cumque **suo** numerant Amphione Thebae."	"verg. aen. 1.277"	"moenia, Romanosque **suo** de **nomine** dicet."	"nomen; suo-suus"	8
+181	"stat. ach. 1.13"	"nomina **cumque** **suo** numerant Amphione Thebae."	"verg. aen. 1.635"	"terga **suum**, pinguis centum **cum** matribus agnos,"	"suus; cum"	8
+182	"stat. ach. 1.13"	"nomina **cumque** suo **numerant** Amphione Thebae."	"verg. aen. 3.623"	"Vidi egomet, duo de **numero** **cum** corpora nostro"	"numero; cum"	8
+183	"stat. ach. 1.13"	"nomina **cumque** **suo** numerant Amphione Thebae."	"verg. aen. 6.185"	"Atque haec ipse **suo** tristi **cum** corde volutat,"	"suo-suus; cum"	8
+184	"stat. ach. 1.13"	"**nomina** cumque **suo** numerant Amphione Thebae."	"verg. aen. 8.519"	"lecta dabo totidemque **suo** tibi **nomine** Pallas.“"	"nomen; suo-suus"	8
+185	"stat. ach. 1.13"	"nomina **cumque** **suo** numerant Amphione Thebae."	"verg. aen. 8.522"	"multaque dura **suo** tristi **cum** corde putabant,"	"suo-suus; cum"	8
+186	"stat. ach. 1.13"	"nomina **cumque** **suo** numerant Amphione Thebae."	"verg. aen. 9.816"	"in fluvium dedit: ille **suo** **cum** gurgite flavo"	"suo-suus; cum"	8
+187	"stat. ach. 1.13"	"**nomina** **cumque** suo numerant Amphione Thebae."	"verg. aen. 12.828"	"occidit, occideritque sinas **cum** **nomine** Troia.”"	"nomen; cum"	8
+188	"stat. ach. 1.14"	"At tu, quem **longe** primum stupet **Itala** virtus"	"verg. aen. 1.252"	"prodimur atque **Italis** **longe** disiungimur oris."	"longus; italus"	8
+189	"stat. ach. 1.14"	"**At** tu, quem longe **primum** stupet Itala virtus"	"verg. aen. 2.559"	"**At** me tum **primum** saevus circumstetit horror"	"primus; at"	6
+190	"stat. ach. 1.14"	"At tu, quem **longe** **primum** stupet Itala virtus"	"verg. aen. 5.318"	"**Primus** abit **longeque** ante omnia corpora Nisus"	"primus; longus"	9
+191	"stat. ach. 1.14"	"At tu, quem **longe** primum **stupet** Itala virtus"	"verg. aen. 5.406"	"Ante omnes **stupet** ipse Dares, **longeque** recusat;"	"stupeo; longus"	8
+192	"stat. ach. 1.14"	"**At** tu, quem longe **primum** stupet Itala virtus"	"verg. aen. 5.654"	"**At** matres **primo** ancipites oculisque malignis"	"primus; at"	7
+193	"stat. ach. 1.14"	"**At** tu, quem **longe** primum stupet Itala virtus"	"verg. aen. 6.316"	"**ast** alios **longe** submotos arcet harena."	"at; longus"	7
+194	"stat. ach. 1.14"	"**At** tu, quem **longe** primum stupet Itala virtus"	"verg. aen. 9.556"	"**At** pedibus **longe** melior Lycus inter et hostis"	"at; longus"	7
+195	"stat. ach. 1.14"	"**At** tu, quem longe **primum** stupet Itala virtus"	"verg. aen. 10.643"	"**At** **primas** laeta ante acies exsultat imago"	"primus; at"	8
+196	"stat. ach. 1.14"	"At tu, quem longe primum stupet **Itala** **virtus**"	"verg. aen. 12.827"	"sit Romana potens **Itala** **virtute** propago:"	"uirtus; italus"	9
+197	"stat. ach. 1.15"	"Graiaque, cui geminae florent **vatumque** **ducumque**"	"verg. aen. 6.562"	"Tum **vates** sic orsa loqui: ”**Dux** inclute Teucrum,"	"uates; dux"	8
+198	"stat. ach. 1.16"	"certatim laurus — olim **dolet** altera **vinci** — ,"	"verg. aen. 4.95"	"una **dolo** divom si femina **victa** duorum est!"	"dolo; uinco"	9
+199	"stat. ach. 1.16"	"certatim laurus — olim **dolet** altera **vinci** — ,"	"verg. aen. 4.434"	"dum mea me **victam** doceat fortuna **dolere**."	"doleo-dolo; uinco"	10
+200	"stat. ach. 1.16"	"certatim laurus — olim **dolet** altera **vinci** — ,"	"verg. aen. 11.712"	"At iuvenis, **vicisse** **dolo** ratus, avolat ipse,"	"dolo; uinco"	10
+201	"stat. ach. 1.17"	"**da** **veniam** ac trepidum patere hoc sudare parumper"	"verg. aen. 1.66"	"et mulcere **dedit** fluctus et tollere **vento**,"	"do; uenio"	8
+202	"stat. ach. 1.17"	"da **veniam** **ac** trepidum patere hoc sudare parumper"	"verg. aen. 1.82"	"impulit in latus: **ac** **venti**, velut agmine facto,"	"atque; uenio"	8
+203	"stat. ach. 1.17"	"**da** veniam ac trepidum **patere** hoc sudare parumper"	"verg. aen. 1.199"	"O **passi** graviora, **dabit** deus his quoque finem."	"patior; do"	8
+204	"stat. ach. 1.17"	"**da** **veniam** ac trepidum patere hoc sudare parumper"	"verg. aen. 1.319"	"venatrix, **dederatque** comam diffundere **ventis**,"	"do; uenio"	9
+205	"stat. ach. 1.17"	"da **veniam** ac trepidum patere **hoc** sudare parumper"	"verg. aen. 1.333"	"erramus, **vento** **huc** vastis et fluctibus acti:"	"uenio; huc"	8
+206	"stat. ach. 1.17"	"**da** veniam **ac** trepidum patere hoc sudare parumper"	"verg. aen. 1.409"	"non **datur**, **ac** veras audire et reddere voces?“"	"atque; do"	7
+207	"stat. ach. 1.17"	"da **veniam** **ac** trepidum patere hoc sudare parumper"	"verg. aen. 1.619"	"**Atque** equidem Teucrum memini Sidona **venire**"	"atque; uenio"	9
+208	"stat. ach. 1.17"	"**da** veniam **ac** trepidum patere hoc sudare parumper"	"verg. aen. 1.687"	"cum **dabit** amplexus **atque** oscula dulcia figet,"	"atque; do"	7
+209	"stat. ach. 1.17"	"**da** veniam **ac** trepidum patere hoc sudare parumper"	"verg. aen. 2.243"	"substitit, **atque** utero sonitum quater arma **dedere**:"	"atque; do"	7
+210	"stat. ach. 1.17"	"**da** veniam **ac** trepidum patere hoc sudare parumper"	"verg. aen. 2.691"	"**da** deinde auxilium, pater, **atque** haec omina firma.”"	"atque; do"	7
+211	"stat. ach. 1.17"	"**da** **veniam** ac trepidum patere hoc sudare parumper"	"verg. aen. 3.77"	"immotamque coli **dedit** et contemnere **ventos**."	"do; uenio"	8
+212	"stat. ach. 1.17"	"**da** veniam **ac** trepidum patere hoc sudare parumper"	"verg. aen. 3.89"	"**Da**, pater, augurium, **atque** animis inlabere nostris.”"	"atque; do"	7
+213	"stat. ach. 1.17"	"**da** **veniam** ac trepidum patere hoc sudare parumper"	"verg. aen. 3.337"	"Sed tibi qui cursum **venti**, quae fata **dedere**?"	"do; uenio"	8
+214	"stat. ach. 1.17"	"da **veniam** **ac** trepidum patere hoc sudare parumper"	"verg. aen. 3.514"	"explorat **ventos**, **atque** auribus aera captat;"	"atque; uenio"	8
+215	"stat. ach. 1.17"	"da veniam **ac** trepidum patere **hoc** sudare parumper"	"verg. aen. 3.600"	"per superos **atque** **hoc** caeli spirabile lumen,"	"atque; huc"	6
+216	"stat. ach. 1.17"	"**da** veniam **ac** trepidum patere hoc sudare parumper"	"verg. aen. 3.611"	"**dat** iuveni, **atque** animum praesenti pignore firmat."	"atque; do"	7
+217	"stat. ach. 1.17"	"**da** **veniam** ac trepidum patere hoc sudare parumper"	"verg. aen. 3.705"	"teque **datis** linquo **ventis**, palmosa Selinus,"	"do; uenio"	9
+218	"stat. ach. 1.17"	"da **veniam** **ac** trepidum patere hoc sudare parumper"	"verg. aen. 4.151"	"Postquam altos **ventum** in montis **atque** invia lustra,"	"atque; uenio"	8
+219	"stat. ach. 1.17"	"da veniam **ac** trepidum patere **hoc** sudare parumper"	"verg. aen. 4.285"	"**Atque** animum nunc **huc** celerem, nunc dividit illuc,"	"atque; huc"	6
+220	"stat. ach. 1.17"	"**da** veniam ac trepidum patere **hoc** sudare parumper"	"verg. aen. 4.429"	"Quo ruit? Extremum **hoc** miserae **det** munus amanti:"	"do; huc"	7
+221	"stat. ach. 1.17"	"**da** **veniam** ac trepidum patere hoc sudare parumper"	"verg. aen. 4.546"	"rursus agam pelago, et **ventis** **dare** vela iubebo?"	"do; uenio"	8
+222	"stat. ach. 1.17"	"da **veniam** **ac** trepidum patere hoc sudare parumper"	"verg. aen. 4.705"	"dilapsus calor, **atque** in **ventos** vita recessit."	"atque; uenio"	8
+223	"stat. ach. 1.17"	"da **veniam** **ac** trepidum patere hoc sudare parumper"	"verg. aen. 5.16"	"obliquatque sinus in **ventum**, **ac** talia fatur:"	"atque; uenio"	8
+224	"stat. ach. 1.17"	"da **veniam** **ac** trepidum patere hoc sudare parumper"	"verg. aen. 5.20"	"consurgunt **venti**, **atque** in nubem cogitur ar."	"atque; uenio"	8
+225	"stat. ach. 1.17"	"da **veniam** **ac** trepidum patere hoc sudare parumper"	"verg. aen. 5.59"	"poscamus **ventos**; **atque** haec me sacra quotannis"	"atque; uenio"	8
+226	"stat. ach. 1.17"	"**da** veniam ac trepidum patere **hoc** sudare parumper"	"verg. aen. 5.195"	"quamquam O!---sed superent, quibus **hoc**, Neptune, **dedisti**;"	"do; huc"	8
+227	"stat. ach. 1.17"	"**da** veniam **ac** trepidum patere hoc sudare parumper"	"verg. aen. 5.352"	"**dat** Salio, villis onerosum **atque** unguibus aureis."	"atque; do"	6
+228	"stat. ach. 1.17"	"da **veniam** ac trepidum patere **hoc** sudare parumper"	"verg. aen. 5.726"	"imperio Iovis **huc** **venio**, qui classibus ignem"	"uenio; huc"	8
+229	"stat. ach. 1.17"	"**da** **veniam** ac trepidum patere hoc sudare parumper"	"verg. aen. 6.66"	"praescia **venturi**, **da**, non indebita posco"	"do; uenio"	10
+230	"stat. ach. 1.17"	"da veniam **ac** trepidum **patere** hoc sudare parumper"	"verg. aen. 6.127"	"noctes **atque** dies **patet** atri ianua Ditis;"	"atque; pateo"	8
+231	"stat. ach. 1.17"	"**da** veniam **ac** trepidum patere hoc sudare parumper"	"verg. aen. 7.24"	"**atque** fugam **dedit** et praeter vada fervida vexit."	"atque; do"	7
+232	"stat. ach. 1.17"	"**da** **veniam** ac trepidum patere hoc sudare parumper"	"verg. aen. 7.394"	"deseruere domos, **ventis** **dant** colla comasque,"	"do; uenio"	8
+233	"stat. ach. 1.17"	"da **veniam** ac trepidum **patere** hoc sudare parumper"	"verg. aen. 7.807"	"dura **pati** cursuque pedum praevertere **ventos**."	"patior; uenio"	8
+234	"stat. ach. 1.17"	"da veniam **ac** trepidum patere **hoc** sudare parumper"	"verg. aen. 8.20"	"**atque** animum nunc **huc** celerem, nunc dividit illuc."	"atque; huc"	6
+235	"stat. ach. 1.17"	"da **veniam** ac trepidum patere **hoc** sudare parumper"	"verg. aen. 8.172"	"Interea sacra haec, quando **huc** **venistis** amici,"	"uenio; huc"	8
+236	"stat. ach. 1.17"	"da veniam **ac** trepidum patere **hoc** sudare parumper"	"verg. aen. 9.57"	"arma viros, sed castra fovere. **Huc** turbidus **atque** **huc**"	"atque; huc"	6
+237	"stat. ach. 1.17"	"da veniam **ac** trepidum patere **hoc** sudare parumper"	"verg. aen. 9.90"	"Solve metus **atque** **hoc** precibus sine posse parentem:"	"atque; huc"	6
+238	"stat. ach. 1.17"	"da veniam **ac** **trepidum** patere hoc sudare parumper"	"verg. aen. 9.233"	"accepit **trepidos** **ac** Nisum dicere iussit."	"trepidus; atque"	9
+239	"stat. ach. 1.17"	"**da** veniam **ac** trepidum patere hoc sudare parumper"	"verg. aen. 9.263"	"Bina **dabo** argento perfecta **atque** aspera signis"	"atque; do"	8
+240	"stat. ach. 1.17"	"da veniam **ac** trepidum patere **hoc** sudare parumper"	"verg. aen. 9.755"	"**huc** caput **atque** illuc umero ex utroque pependit."	"atque; huc"	6
+241	"stat. ach. 1.17"	"**da** veniam ac trepidum **patere** hoc sudare parumper"	"verg. aen. 9.795"	"ira **dare** aut virtus **patitur**, nec tendere contra"	"patior; do"	9
+242	"stat. ach. 1.17"	"da **veniam** **ac** trepidum patere hoc sudare parumper"	"verg. aen. 9.817"	"accepit **venientem** **ac** mollibus extulit undis"	"atque; uenio"	8
+243	"stat. ach. 1.17"	"**da** veniam **ac** trepidum patere hoc sudare parumper"	"verg. aen. 10.265"	"Strymoniae **dant** signa grues **atque** aethera tranant"	"atque; do"	7
+244	"stat. ach. 1.17"	"da **veniam** **ac** trepidum patere hoc sudare parumper"	"verg. aen. 10.405"	"**Ac** velut optato **ventis** aestate coortis"	"atque; uenio"	8
+245	"stat. ach. 1.17"	"**da** veniam **ac** trepidum patere hoc sudare parumper"	"verg. aen. 10.629"	"mente **dares** **atque** haec Turno rata vita maneret?"	"atque; do"	8
+246	"stat. ach. 1.17"	"da veniam ac **trepidum** patere **hoc** sudare parumper"	"verg. aen. 10.656"	"**Huc** sese **trepida** Aeneae fugientis imago"	"trepidus; huc"	8
+247	"stat. ach. 1.17"	"**da** **veniam** ac trepidum patere hoc sudare parumper"	"verg. aen. 11.112"	"Nec **veni**, nisi fata locum sedemque **dedissent**,"	"do; uenio"	9
+248	"stat. ach. 1.17"	"**da** veniam **ac** trepidum patere hoc sudare parumper"	"verg. aen. 11.565"	"**dat** sese fluvio **atque** hastam cum virgine victor"	"atque; do"	7
+249	"stat. ach. 1.17"	"**da** veniam ac trepidum patere **hoc** sudare parumper"	"verg. aen. 11.789"	"**da**, pater, **hoc** nostris aboleri dedecus armis,"	"do; huc"	7
+250	"stat. ach. 1.17"	"da **veniam** ac trepidum patere **hoc** sudare parumper"	"verg. aen. 11.856"	"**huc** periture **veni**, capias ut digna Camillae"	"uenio; huc"	8
+251	"stat. ach. 1.17"	"da veniam **ac** **trepidum** patere hoc sudare parumper"	"verg. aen. 11.893"	"tela manu **trepidae** iaciunt **ac** robore duro"	"trepidus; atque"	8
+252	"stat. ach. 1.17"	"**da** **veniam** ac trepidum patere hoc sudare parumper"	"verg. aen. 12.367"	"qua **venti** incubuere, fugam **dant** nubila caelo:"	"do; uenio"	8
+253	"stat. ach. 1.17"	"**da** veniam **ac** trepidum patere hoc sudare parumper"	"verg. aen. 12.383"	"**Atque** ea dum campis victor **dat** funera Turnus,"	"atque; do"	6
+254	"stat. ach. 1.17"	"**da** **veniam** ac trepidum patere hoc sudare parumper"	"verg. aen. 12.540"	"Aenea **veniente** sui: **dedit** obvia ferro"	"do; uenio"	9
+255	"stat. ach. 1.17"	"da veniam **ac** trepidum patere **hoc** sudare parumper"	"verg. aen. 12.558"	"**huc** **atque** **huc** acies circumtulit, aspicit urbem"	"atque; huc"	6
+256	"stat. ach. 1.17"	"da veniam **ac** trepidum **patere** hoc sudare parumper"	"verg. aen. 12.710"	"**Atque** illi, ut vacuo **patuerunt** aequore campi,"	"atque; pateo"	9
+257	"stat. ach. 1.18"	"pulvere, te longo necdum **fidente** **paratu**"	"verg. aen. 2.61"	"obtulerat, **fidens** animi atque in utrumque **paratus**,"	"paratus; fido"	9
+258	"stat. ach. 1.19"	"**molimur** **magnusque** tibi praeludit Achilles."	"verg. aen. 8.199"	"ore vomens ignis **magna** se **mole** ferebat."	"magnus; molo"	8
+259	"stat. ach. 1.19"	"molimur **magnusque** tibi praeludit **Achilles**."	"verg. aen. 11.438"	"Ibo animis contra, vel **magnum** praestet **Achillem**"	"achilles; magnus"	8
+260	"stat. ach. 1.20"	"Solverat Oebalio **classem** de **litore** pastor"	"verg. aen. 1.517"	"quae fortuna viris, **classem** quo **litore** linquant,"	"litus; classis"	7
+261	"stat. ach. 1.20"	"Solverat Oebalio classem **de** litore **pastor**"	"verg. aen. 2.308"	"accipiens sonitum saxi **de** vertice **pastor**."	"de; pastor"	8
+262	"stat. ach. 1.20"	"**Solverat** Oebalio classem **de** litore pastor"	"verg. aen. 3.65"	"et circum Iliades crinem **de** more **solutae**;"	"soluo; de"	8
+263	"stat. ach. 1.20"	"Solverat Oebalio classem **de** **litore** pastor"	"verg. aen. 3.263"	"Et pater Anchises passis **de** **litore** palmis"	"de; litus"	7
+264	"stat. ach. 1.20"	"Solverat Oebalio classem **de** **litore** pastor"	"verg. aen. 3.277"	"ancora **de** prora iacitur, stant **litore** puppes."	"de; litus"	6
+265	"stat. ach. 1.20"	"Solverat Oebalio **classem** de **litore** pastor"	"verg. aen. 3.300"	"Progredior portu, **classis** et **litora** linquens,"	"litus; classis"	8
+266	"stat. ach. 1.20"	"**Solverat** Oebalio classem de **litore** pastor"	"verg. aen. 3.404"	"et positis aris iam vota in **litore** **solves**,"	"soluo; litus"	9
+267	"stat. ach. 1.20"	"Solverat Oebalio **classem** de **litore** pastor"	"verg. aen. 3.651"	"Omnia conlustrans, hanc primum ad **litora** **classem**"	"litus; classis"	7
+268	"stat. ach. 1.20"	"Solverat Oebalio classem de **litore** **pastor**"	"verg. aen. 3.657"	"**pastorem** Polyphemum et **litora** nota petentem,"	"litus; pastor"	9
+269	"stat. ach. 1.20"	"Solverat Oebalio **classem** de **litore** pastor"	"verg. aen. 4.289"	"**classem** aptent taciti sociosque ad **litora** cogant,"	"litus; classis"	7
+270	"stat. ach. 1.20"	"Solverat Oebalio **classem** de **litore** pastor"	"verg. aen. 4.582"	"**litora** deseruere; latet sub **classibus** aequor;"	"litus; classis"	7
+271	"stat. ach. 1.20"	"Solverat Oebalio classem **de** **litore** pastor"	"verg. aen. 6.460"	"invitus, regina, tuo **de** **litore** cessi."	"de; litus"	7
+272	"stat. ach. 1.20"	"Solverat Oebalio classem **de** **litore** pastor"	"verg. aen. 6.901"	"[Ancora **de** prora iacitur, stant **litore** puppes.]"	"de; litus"	6
+273	"stat. ach. 1.20"	"Solverat Oebalio **classem** **de** litore pastor"	"verg. aen. 8.79"	"sic memorat geminasque legit **de** **classe** biremis"	"de; classis"	8
+274	"stat. ach. 1.20"	"Solverat Oebalio **classem** de **litore** pastor"	"verg. aen. 10.36"	"Quid repetem exustas Erycino in **litore** **classes**,"	"litus; classis"	8
+275	"stat. ach. 1.20"	"**Solverat** Oebalio classem **de** litore pastor"	"verg. aen. 11.35"	"et maestum Iliades crinem **de** more **solutae**."	"soluo; de"	8
+276	"stat. ach. 1.23"	"culpatum relegebat **iter**, qua **condita** ponto"	"verg. aen. 6.271"	"est **iter** in silvis, ubi caelum **condidit** umbra"	"iter-ito; condo"	8
+277	"stat. ach. 1.23"	"culpatum relegebat **iter**, qua **condita** ponto"	"verg. aen. 7.802"	"quaerit **iter** vallis atque in mare **conditur** Ufens."	"iter-ito; condo"	8
+278	"stat. ach. 1.23"	"culpatum relegebat **iter**, **qua** condita ponto"	"verg. aen. 9.321"	"Hac **iter** est. Tu, ne **qua** manus se attollere nobis"	"iter-ito; qua"	7
+279	"stat. ach. 1.23"	"culpatum relegebat **iter**, **qua** condita ponto"	"verg. aen. 9.391"	"**Quave** sequar, rursus perplexum **iter** omne revolvens"	"iter-ito; qua"	9
+280	"stat. ach. 1.25"	"cum Thetis Idaeos — heu numquam **vana** **parentum**"	"verg. aen. 1.392"	"ni frustra augurium **vani** docuere **parentes**."	"parens; uanum-uanus"	10
+281	"stat. ach. 1.25"	"cum Thetis **Idaeos** — heu numquam vana **parentum**"	"verg. aen. 10.252"	"”Alma **parens** **Idaea** deum, cui Dindyma cordi"	"parens; idaeus"	9
+282	"stat. ach. 1.26"	"**auguria**! — expavit vitreo **sub** gurgite remos."	"verg. aen. 3.5"	"**auguriis** agimur divom, classemque **sub** ipsa"	"augurium; sub"	9
+283	"stat. ach. 1.26"	"auguria! — expavit vitreo sub **gurgite** **remos**."	"verg. aen. 5.209"	"expediunt, fractosque legunt in **gurgite** **remos**."	"gurges; remi-remus"	9
+284	"stat. ach. 1.26"	"auguria! — expavit vitreo **sub** gurgite **remos**."	"verg. aen. 5.837"	"**sub** **remis** fusi per dura sedilia nautae:"	"sub; remi-remus"	8
+285	"stat. ach. 1.26"	"auguria! — expavit vitreo **sub** **gurgite** remos."	"verg. aen. 6.741"	"suspensae ad ventos; aliis **sub** **gurgite** vasto"	"sub; gurges"	7
+286	"stat. ach. 1.26"	"auguria! — expavit vitreo **sub** gurgite **remos**."	"verg. aen. 9.330"	"armigerumque **Remi** premit aurigamque **sub** ipsis"	"sub; remi-remus"	8
+287	"stat. ach. 1.27"	"nec mora, et undosis **turba** **comitante** sororum"	"verg. aen. 2.580"	"Iliadum **turba** et Phrygiis **comitata** ministris?"	"comitor; turba-turbo"	9
+288	"stat. ach. 1.27"	"nec **mora**, et undosis **turba** comitante sororum"	"verg. aen. 9.13"	"Rumpe **moras** omnis et **turbata** arripe castra.“"	"mora-morus; turbo"	8
+289	"stat. ach. 1.29"	"litora et angustum dominas non **explicat** **aequor**."	"verg. aen. 2.362"	"**explicet**, aut possit lacrimis **aequare** labores?"	"aequo; explico"	10
+290	"stat. ach. 1.29"	"**litora** et angustum dominas **non** explicat aequor."	"verg. aen. 3.161"	"Mutandae sedes: **non** haec tibi **litora** suasit"	"litus; non"	5
+291	"stat. ach. 1.29"	"**litora** et **angustum** dominas non explicat aequor."	"verg. aen. 3.419"	"**litore** diductas **angusto** interluit aestu."	"angustum-angustus; litus"	9
+292	"stat. ach. 1.29"	"litora et angustum dominas **non** explicat **aequor**."	"verg. aen. 4.520"	"sidera; tum, si quod **non** **aequo** foedere amantes"	"aequo; non"	8
+293	"stat. ach. 1.29"	"litora et angustum dominas **non** explicat **aequor**."	"verg. aen. 5.862"	"Currit iter tutum **non** secius **aequore** classis,"	"aequor; non"	7
+294	"stat. ach. 1.29"	"litora et angustum dominas **non** explicat **aequor**."	"verg. aen. 9.56"	"**non** **aequo** dare se campo, **non** obvia ferre"	"aequo; non"	8
+295	"stat. ach. 1.30"	"**Illa** ubi discusso primum **subit** aera ponto:"	"verg. aen. 2.240"	"**Illa** **subit**, mediaeque minans inlabitur urbi."	"illa; subeo"	7
+296	"stat. ach. 1.30"	"Illa **ubi** discusso **primum** subit aera ponto:"	"verg. aen. 3.69"	"Inde, **ubi** **prima** fides pelago, placataque venti"	"primus; ubi-ubius"	6
+297	"stat. ach. 1.30"	"Illa **ubi** discusso **primum** subit aera ponto:"	"verg. aen. 4.118"	"in nemus ire parant, **ubi** **primos** crastinus ortus"	"primus; ubi-ubius"	7
+298	"stat. ach. 1.30"	"Illa **ubi** discusso **primum** subit aera ponto:"	"verg. aen. 8.407"	"Inde **ubi** **prima** quies medio iam noctis abactae"	"primus; ubi-ubius"	6
+299	"stat. ach. 1.30"	"**Illa** ubi discusso **primum** subit aera ponto:"	"verg. aen. 9.479"	"**prima** petit, non **illa** virum, non **illa** pericli"	"primus; illa"	6
+300	"stat. ach. 1.30"	"**Illa** **ubi** discusso primum subit aera ponto:"	"verg. aen. 10.897"	"et super haec: ”**Ubi** nunc Mezentius acer et **illa**"	"ubi-ubius; illa"	6
+301	"stat. ach. 1.30"	"Illa **ubi** discusso **primum** subit aera ponto:"	"verg. aen. 11.19"	"nequa mora ignaros, **ubi** **primum** vellere signa"	"primus; ubi-ubius"	7
+302	"stat. ach. 1.30"	"Illa ubi **discusso** **primum** subit aera ponto:"	"verg. aen. 12.669"	"Ut **primum** **discussae** umbrae et lux reddita menti,"	"primus; discutio"	10
+303	"stat. ach. 1.31"	"“me **petit** haec, mihi **classis**,” ait, “funesta minatur,"	"verg. aen. 4.313"	"Troia per undosum **peteretur** **classibus** aequor"	"peto; classis"	9
+304	"stat. ach. 1.31"	"“me **petit** haec, mihi **classis**,” ait, “funesta minatur,"	"verg. aen. 9.81"	"Aeneas **classem** et pelagi **petere** alta parabat,"	"peto; classis"	8
+305	"stat. ach. 1.33"	"**ecce** novam Priamo facibus **de** puppe levatis"	"verg. aen. 2.526"	"**Ecce** autem elapsus Pyrrhi **de** caede Polites,"	"de; ecce"	7
+306	"stat. ach. 1.33"	"ecce novam **Priamo** facibus **de** puppe levatis"	"verg. aen. 2.662"	"iamque aderit multo **Priami** **de** sanguine Pyrrhus,"	"de; priamus"	7
+307	"stat. ach. 1.33"	"**ecce** novam Priamo facibus **de** puppe levatis"	"verg. aen. 2.682"	"**ecce** levis summo **de** vertice visus Iuli"	"de; ecce"	7
+308	"stat. ach. 1.33"	"ecce novam Priamo facibus **de** **puppe** levatis"	"verg. aen. 3.277"	"ancora **de** prora iacitur, stant litore **puppes**."	"de; puppis"	7
+309	"stat. ach. 1.33"	"ecce novam **Priamo** facibus **de** puppe levatis"	"verg. aen. 5.297"	"regius egregia **Priami** **de** stirpe Diores;"	"de; priamus"	7
+310	"stat. ach. 1.33"	"ecce novam Priamo facibus **de** **puppe** levatis"	"verg. aen. 6.901"	"[Ancora **de** prora iacitur, stant litore **puppes**.]"	"de; puppis"	7
+311	"stat. ach. 1.33"	"**ecce** novam Priamo facibus **de** puppe levatis"	"verg. aen. 7.706"	"**Ecce** Sabinorum prisco **de** sanguine magnum"	"de; ecce"	7
+312	"stat. ach. 1.33"	"ecce novam **Priamo** facibus **de** puppe levatis"	"verg. aen. 9.284"	"unum oro, genetrix **Priami** **de** gente vetusta"	"de; priamus"	7
+313	"stat. ach. 1.33"	"ecce novam Priamo facibus **de** **puppe** levatis"	"verg. aen. 10.287"	"Interea Aeneas socios **de** **puppibus** altis"	"de; puppis"	8
+314	"stat. ach. 1.34"	"fert Bellona nurum: video iam **mille** **carinis**"	"verg. aen. 2.198"	"non anni domuere decem, non **mille** **carinae**."	"carina; mille"	8
+315	"stat. ach. 1.34"	"**fert** Bellona nurum: **video** iam mille carinis"	"verg. aen. 2.555"	"sorte **tulit**, Troiam incensam et prolapsa **videntem**"	"fero; uideo"	8
+316	"stat. ach. 1.34"	"**fert** Bellona nurum: video iam mille **carinis**"	"verg. aen. 3.465"	"imperat ad navis **ferri**, stipatque **carinis**"	"fero; carina"	8
+317	"stat. ach. 1.34"	"**fert** Bellona nurum: **video** iam mille carinis"	"verg. aen. 6.549"	"moenia **lata** **videt**, triplici circumdata muro,"	"fero; uideo"	9
+318	"stat. ach. 1.34"	"**fert** Bellona nurum: **video** iam mille carinis"	"verg. aen. 7.78"	"Id vero horrendum ac **visu** mirabile **ferri**:"	"fero; uideo"	8
+319	"stat. ach. 1.34"	"fert Bellona nurum: video iam **mille** **carinis**"	"verg. aen. 9.148"	"Non armis mihi Volcani, non **mille** **carinis**"	"carina; mille"	8
+320	"stat. ach. 1.34"	"fert Bellona nurum: **video** iam **mille** carinis"	"verg. aen. 9.549"	"isque ubi se Turni media inter **milia** **vidit**,"	"mille; uideo"	8
+321	"stat. ach. 1.34"	"**fert** Bellona nurum: **video** iam mille carinis"	"verg. aen. 10.652"	"mucronem nec **ferre** **videt** sua gaudia ventos."	"fero; uideo"	8
+322	"stat. ach. 1.35"	"Ionium Aegaeumque **premi**; nec sufficit, **omnis**"	"verg. aen. 5.556"	"**omnibus** in morem tonsa coma **pressa** corona;"	"premo; omnis"	8
+323	"stat. ach. 1.35"	"Ionium Aegaeumque **premi**; nec sufficit, **omnis**"	"verg. aen. 8.249"	"desuper Alcides telis **premit** **omniaque** arma"	"premo; omnis"	9
+324	"stat. ach. 1.36"	"**quod** plaga Graiugenum **tumidis** coniurat Atridis:"	"verg. aen. 5.125"	"litora, **quod** **tumidis** submersum tunditur olim"	"tumidus; quod"	9
+325	"stat. ach. 1.37"	"iam pelago **terrisque** **meus** quaeretur Achilles,"	"verg. aen. 1.133"	"Iam caelum **terramque** **meo** sine numine, venti,"	"meus; terra"	10
+326	"stat. ach. 1.37"	"iam **pelago** **terrisque** meus quaeretur Achilles,"	"verg. aen. 2.800"	"in quascumque velim **pelago** deducere **terras**."	"terra; pelagus"	8
+327	"stat. ach. 1.37"	"iam pelago **terrisque** meus **quaeretur** Achilles,"	"verg. aen. 3.4"	"diversa exsilia et desertas **quaerere** **terras**"	"terra; quaero"	8
+328	"stat. ach. 1.37"	"iam pelago **terrisque** **meus** quaeretur Achilles,"	"verg. aen. 4.306"	"posse nefas, tacitusque **mea** decedere **terra**?"	"meus; terra"	8
+329	"stat. ach. 1.37"	"iam pelago **terrisque** meus **quaeretur** Achilles,"	"verg. aen. 4.468"	"ire viam, et Tyrios deserta **quaerere** **terra**."	"terra; quaero"	8
+330	"stat. ach. 1.37"	"iam pelago **terrisque** **meus** quaeretur Achilles,"	"verg. aen. 4.654"	"et nunc magna **mei** sub **terras** ibit imago."	"meus; terra"	8
+331	"stat. ach. 1.37"	"iam **pelago** terrisque **meus** quaeretur Achilles,"	"verg. aen. 7.304"	"securi **pelagi** atque **mei**. Mars perdere gentem"	"meus; pelagus"	8
+332	"stat. ach. 1.37"	"iam pelago terrisque **meus** **quaeretur** Achilles,"	"verg. aen. 9.278"	"Nulla **meis** sine te **quaeretur** gloria rebus;"	"meus; quaero"	9
+333	"stat. ach. 1.37"	"iam **pelago** **terrisque** meus quaeretur Achilles,"	"verg. aen. 10.378"	"deest iam **terra** fugae: **pelagus** Troiamne petemus?“"	"terra; pelagus"	9
+334	"stat. ach. 1.38"	"et **volet** ipse **sequi**, quid enim cunabula parvo"	"verg. aen. 1.626"	"**seque** ortum antiqua Teucrorum ab stirpe **volebat**."	"sequor; uolo"	9
+335	"stat. ach. 1.38"	"et **volet** **ipse** sequi, quid enim cunabula parvo"	"verg. aen. 3.457"	"**ipsa** canat, vocemque **volens** atque ora resolvat."	"uolo; ipse"	9
+336	"stat. ach. 1.38"	"et **volet** **ipse** sequi, quid enim cunabula parvo"	"verg. aen. 5.219"	"aequora, sic illam fert impetus **ipse** **volantem**."	"uolo; ipse"	9
+337	"stat. ach. 1.38"	"et volet **ipse** **sequi**, quid enim cunabula parvo"	"verg. aen. 5.323"	"Euryalumque Helymus **sequitur**; quo deinde sub **ipso**"	"sequor; ipse"	7
+338	"stat. ach. 1.38"	"et **volet** **ipse** sequi, quid enim cunabula parvo"	"verg. aen. 5.861"	"**ipse** **volans** tenues se sustulit ales ad auras."	"uolo; ipse"	8
+339	"stat. ach. 1.38"	"et **volet** **ipse** **sequi**, quid enim cunabula parvo"	"verg. aen. 6.146"	"carpe manu; namque **ipse** **volens** facilisque **sequetur**,"	"sequor; uolo; ipse"	9
+340	"stat. ach. 1.38"	"et **volet** **ipse** sequi, quid enim cunabula parvo"	"verg. aen. 6.191"	"**ipsa** sub ora viri caelo venere **volantes**,"	"uolo; ipse"	8
+341	"stat. ach. 1.38"	"et **volet** **ipse** sequi, quid enim cunabula parvo"	"verg. aen. 6.302"	"**Ipse** ratem conto subigit, **velisque** ministrat,"	"uolo; ipse"	9
+342	"stat. ach. 1.38"	"et **volet** **ipse** sequi, quid enim cunabula parvo"	"verg. aen. 6.553"	"**vis** ut nulla virum, non **ipsi** exscindere bello"	"uolo; ipse"	8
+343	"stat. ach. 1.38"	"et volet **ipse** sequi, quid enim cunabula **parvo**"	"verg. aen. 7.187"	"**Ipse** Quirinali lituo **parvaque** sedebat"	"paruus; ipse"	9
+344	"stat. ach. 1.38"	"et **volet** **ipse** sequi, quid enim cunabula parvo"	"verg. aen. 7.432"	"Caelestum **vis** magna iubet.  Rex **ipse** Latinus,"	"uolo; ipse"	8
+345	"stat. ach. 1.38"	"et volet **ipse** **sequi**, quid enim cunabula parvo"	"verg. aen. 7.614"	"**ipse** vocat pugnas; **sequitur** tum cetera pubes,"	"sequor; ipse"	7
+346	"stat. ach. 1.38"	"et **volet** **ipse** sequi, quid enim cunabula parvo"	"verg. aen. 8.111"	"sacra vetat raptoque **volat** telo obvius **ipse**"	"uolo; ipse"	8
+347	"stat. ach. 1.38"	"et volet **ipse** **sequi**, quid enim cunabula parvo"	"verg. aen. 8.256"	"Non tulit Alcides animis **seque** **ipse** per ignem"	"sequor; ipse"	8
+348	"stat. ach. 1.38"	"et **volet** ipse sequi, quid enim cunabula **parvo**"	"verg. aen. 8.554"	"Fama **volat** **parvam** subito volgata per urbem,"	"paruus; uolo"	9
+349	"stat. ach. 1.38"	"et **volet** **ipse** sequi, quid enim cunabula parvo"	"verg. aen. 10.218"	"**ipse** sedens clavumque regit **velisque** ministrat."	"uolo; ipse"	9
+350	"stat. ach. 1.38"	"et volet **ipse** **sequi**, quid enim cunabula parvo"	"verg. aen. 10.226"	"pone **sequens** dextra puppim tenet **ipsaque** dorso"	"sequor; ipse"	9
+351	"stat. ach. 1.38"	"et volet **ipse** **sequi**, quid enim cunabula parvo"	"verg. aen. 10.893"	"verberat effusumque equitem super **ipse** **secutus**"	"sequor; ipse"	8
+352	"stat. ach. 1.38"	"et volet ipse **sequi**, quid enim cunabula **parvo**"	"verg. aen. 11.430"	"tot populi misere duces, nec **parva** **sequetur**"	"sequor; paruus"	9
+353	"stat. ach. 1.38"	"et volet **ipse** **sequi**, quid enim cunabula parvo"	"verg. aen. 12.301"	"nidoremque ambusta dedit. Super **ipse** **secutus**"	"sequor; ipse"	8
+354	"stat. ach. 1.40"	"illic, ni fallor, Lapitharum **proelia** **ludit**"	"verg. aen. 5.593"	"impediunt texuntque fugas et **proelia** **ludo**,"	"proelio-proelior-proelium; ludo"	9
+355	"stat. ach. 1.40"	"illic, ni **fallor**, Lapitharum proelia **ludit**"	"verg. aen. 7.442"	"regum inter **falsa** vatem formidine **ludit**."	"ludo; fallo"	9
+356	"stat. ach. 1.40"	"illic, ni **fallor**, Lapitharum proelia **ludit**"	"verg. aen. 7.453"	"arma inter regum **falsa** formidine **ludit**."	"ludo; fallo"	9
+357	"stat. ach. 1.41"	"improbus et **patria** iam **se** metitur in hasta,"	"verg. aen. 4.598"	"quem **secum** **patrios** aiunt portare Penates,"	"sui; patrius"	8
+358	"stat. ach. 1.41"	"improbus et **patria** iam se **metitur** in hasta,"	"verg. aen. 4.602"	"Ascanium, **patriisque** epulandum ponere **mensis**?---"	"metior; patria-patrium-patrius"	9
+359	"stat. ach. 1.41"	"improbus et patria iam **se** metitur in **hasta**,"	"verg. aen. 10.588"	"aptet **se** pugnae, subit oras **hasta** per imas"	"sui; hasta"	7
+360	"stat. ach. 1.41"	"improbus et patria iam **se** metitur in **hasta**,"	"verg. aen. 11.565"	"dat **sese** fluvio atque **hastam** cum virgine victor"	"sui; hasta"	7
+361	"stat. ach. 1.41"	"**improbus** et patria iam se metitur in **hasta**,"	"verg. aen. 11.767"	"undique circuitum et certam quatit **improbus** **hastam**."	"improbus; hasta"	8
+362	"stat. ach. 1.42"	"o **dolor**, o seri materno in **corde** timores!"	"verg. aen. 1.209"	"spem voltu simulat, premit altum **corde** **dolorem**."	"chordus-cor; dolor"	8
+363	"stat. ach. 1.42"	"o **dolor**, o seri materno in **corde** timores!"	"verg. aen. 6.383"	"**corde** **dolor** tristi: gaudet cognomine terrae."	"dolo-dolor; chordus-cor"	8
+364	"stat. ach. 1.42"	"**o** dolor, **o** **seri** materno in corde timores!"	"verg. aen. 8.36"	"”**O** **sate** gente deum, Troianam ex hostibus urbem"	"sero; o"	9
+365	"stat. ach. 1.42"	"**o** **dolor**, **o** seri materno in corde timores!"	"verg. aen. 10.507"	"**O** **dolor** atque decus magnum rediture parenti"	"dolo-dolor; o"	8
+366	"stat. ach. 1.42"	"**o** dolor, **o** **seri** materno in corde timores!"	"verg. aen. 12.883"	"te sine, frater, erit? **O** quae **satis** ima dehiscet"	"sero; o"	7
+367	"stat. ach. 1.43"	"**non** **potui** infelix, cum primum gurgite nostro"	"verg. aen. 1.98"	"**non** **potuisse**, tuaque animam hanc effundere dextra,"	"non; possum"	10
+368	"stat. ach. 1.43"	"**non** potui infelix, cum primum gurgite **nostro**"	"verg. aen. 1.460"	"quae regio in terris **nostri** **non** plena laboris?"	"noster; non"	7
+369	"stat. ach. 1.43"	"non **potui** infelix, cum primum gurgite **nostro**"	"verg. aen. 1.676"	"Qua facere id **possis**, **nostram** nunc accipe mentem."	"noster; possum"	9
+370	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** gurgite nostro"	"verg. aen. 2.117"	"**cum** **primum** Iliacas, Danai, venistis ad oras;"	"primus; cum"	7
+371	"stat. ach. 1.43"	"**non** potui **infelix**, cum primum gurgite nostro"	"verg. aen. 2.345"	"**infelix**, qui **non** sponsae praecepta furentis"	"non; infelix"	7
+372	"stat. ach. 1.43"	"non potui infelix, **cum** primum gurgite **nostro**"	"verg. aen. 3.623"	"Vidi egomet, duo de numero **cum** corpora **nostro**"	"noster; cum"	7
+373	"stat. ach. 1.43"	"**non** potui **infelix**, cum primum gurgite nostro"	"verg. aen. 4.529"	"At **non** **infelix** animi Phoenissa, nec umquam"	"non; infelix"	7
+374	"stat. ach. 1.43"	"**non** **potui** infelix, cum primum gurgite nostro"	"verg. aen. 4.600"	"**Non** **potui** abreptum divellere corpus, et undis"	"non; possum-potus"	8
+375	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** gurgite nostro"	"verg. aen. 5.42"	"Postera **cum** **primo** stellas Oriente fugarat"	"primus; cum"	7
+376	"stat. ach. 1.43"	"non potui infelix, **cum** primum **gurgite** nostro"	"verg. aen. 5.160"	"**cum** princeps medioque Gyas in **gurgite** victor"	"cum; gurges"	7
+377	"stat. ach. 1.43"	"**non** potui infelix, cum **primum** gurgite nostro"	"verg. aen. 5.194"	"**Non** iam **prima** peto Mnestheus, neque vincere certo;"	"primus; non"	6
+378	"stat. ach. 1.43"	"**non** potui infelix, cum **primum** gurgite nostro"	"verg. aen. 6.143"	"instituit. **Primo** avulso **non** deficit alter"	"primus; non"	6
+379	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** gurgite nostro"	"verg. aen. 7.39"	"**cum** **primum** Ausoniis exercitus appulit oris,"	"primus; cum"	7
+380	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** gurgite nostro"	"verg. aen. 7.61"	"quam pater inventam, **primas** **cum** conderet arces,"	"primus; cum"	8
+381	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** gurgite nostro"	"verg. aen. 7.130"	"Quare agite et **primo** laeti **cum** lumine solis"	"primus; cum"	7
+382	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** gurgite nostro"	"verg. aen. 7.148"	"Postera **cum** **prima** lustrabat lampade terras"	"primus; cum"	7
+383	"stat. ach. 1.43"	"non **potui** **infelix**, cum primum gurgite nostro"	"verg. aen. 7.309"	"quae **potui** **infelix**, quae memet in omnia verti,"	"possum-potus; infelix"	9
+384	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** gurgite nostro"	"verg. aen. 7.528"	"fluctus uti **primo** coepit **cum** albescere vento,"	"primus; cum"	7
+385	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** gurgite nostro"	"verg. aen. 7.603"	"Roma colit, **cum** **prima** movent in proelia Martem,"	"primus; cum"	7
+386	"stat. ach. 1.43"	"non potui infelix, **cum** primum gurgite **nostro**"	"verg. aen. 8.74"	"Quo te **cumque** lacus miserantem incommoda **nostra**"	"noster; cum"	8
+387	"stat. ach. 1.43"	"**non** potui infelix, cum **primum** gurgite nostro"	"verg. aen. 8.143"	"His fretus **non** legatos neque **prima** per artem"	"primus; non"	6
+388	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** gurgite nostro"	"verg. aen. 8.170"	"et lux **cum** **primum** terris se crastina reddet,"	"primus; cum"	7
+389	"stat. ach. 1.43"	"non potui infelix, cum **primum** gurgite **nostro**"	"verg. aen. 8.222"	"Tum **primum** **nostri** Cacum videre timentem"	"primus; noster"	8
+390	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** gurgite nostro"	"verg. aen. 8.408"	"curriculo expulerat somnum, **cum** femina **primum**,"	"primus; cum"	6
+391	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** gurgite nostro"	"verg. aen. 8.561"	"(qualis eram, **cum** **primam** aciem Praeneste sub ipsa"	"primus; cum"	8
+392	"stat. ach. 1.43"	"non **potui** infelix, cum **primum** gurgite nostro"	"verg. aen. 9.253"	"praemia **posse** rear solvi? Pulcherrima **primum**"	"primus; possum"	7
+393	"stat. ach. 1.43"	"**non** **potui** infelix, cum primum gurgite nostro"	"verg. aen. 9.328"	"sed **non** augurio **potuit** depellere pestem."	"non; possum"	8
+394	"stat. ach. 1.43"	"**non** potui infelix, cum **primum** gurgite nostro"	"verg. aen. 9.479"	"**prima** petit, **non** illa virum, **non** illa pericli"	"primus; non"	6
+395	"stat. ach. 1.43"	"non **potui** infelix, **cum** primum gurgite nostro"	"verg. aen. 9.513"	"**possent** tectam aciem perrumpere: **cum** tamen omnis"	"cum; possum"	8
+396	"stat. ach. 1.43"	"**non** potui **infelix**, cum primum gurgite nostro"	"verg. aen. 9.786"	"**Non** **infelicis** patriae veterumque deorum"	"non; infelix"	8
+397	"stat. ach. 1.43"	"non potui infelix, **cum** primum **gurgite** nostro"	"verg. aen. 9.816"	"in fluvium dedit: ille suo **cum** **gurgite** flavo"	"cum; gurges"	7
+398	"stat. ach. 1.43"	"non **potui** infelix, cum primum gurgite **nostro**"	"verg. aen. 10.72"	"Quis deus in fraudem, quae dura **potentia** **nostra**"	"noster; possum"	8
+399	"stat. ach. 1.43"	"non potui infelix, **cum** primum gurgite **nostro**"	"verg. aen. 11.113"	"nec bellum **cum** gente gero: rex **nostra** reliquit"	"noster; cum"	7
+400	"stat. ach. 1.43"	"non **potui** infelix, cum **primum** gurgite nostro"	"verg. aen. 11.155"	"et praedulce decus **primo** certamine **posset**."	"primus; possum"	8
+401	"stat. ach. 1.43"	"non potui infelix, **cum** primum **gurgite** nostro"	"verg. aen. 11.298"	"**cum** rapidos amnis, fit clauso **gurgite** murmur"	"cum; gurges"	7
+402	"stat. ach. 1.43"	"non **potui** infelix, cum primum gurgite **nostro**"	"verg. aen. 11.325"	"est animus **possuntque** solo decedere **nostro**:"	"noster; possum"	9
+403	"stat. ach. 1.43"	"**non** potui infelix, cum **primum** gurgite nostro"	"verg. aen. 11.380"	"**primus** ades. Sed **non** replenda est curia verbis,"	"primus; non"	6
+404	"stat. ach. 1.43"	"non **potui** infelix, cum **primum** gurgite nostro"	"verg. aen. 12.47"	"Ut **primum** fari **potuit**, sic institit ore:"	"primus; possum"	8
+405	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** gurgite nostro"	"verg. aen. 12.76"	"haud placitura refer: **cum** **primum** crastina caelo"	"primus; cum"	7
+406	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** gurgite nostro"	"verg. aen. 12.103"	"mugitus veluti **cum** **prima** in proelia taurus"	"primus; cum"	7
+407	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** **gurgite** nostro"	"verg. aen. 12.114"	"orta dies, **cum** **primum** alto se **gurgite** tollunt"	"primus; cum; gurges"	7
+408	"stat. ach. 1.43"	"**non** **potui** infelix, cum primum gurgite nostro"	"verg. aen. 12.151"	"**Non** pugnam aspicere hanc oculis, **non** foedera **possum**."	"non; possum"	8
+409	"stat. ach. 1.43"	"**non** **potui** infelix, cum primum gurgite nostro"	"verg. aen. 12.544"	"Occidis, Argivae quem **non** **potuere** phalanges"	"non; possum"	9
+410	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** gurgite nostro"	"verg. aen. 12.632"	"”O soror, et dudum adgnovi, **cum** **prima** per artem"	"primus; cum"	7
+411	"stat. ach. 1.43"	"non potui **infelix**, cum primum gurgite **nostro**"	"verg. aen. 12.641"	"Occidit **infelix** **nostrum** ne dedecus Ufens"	"noster; infelix"	8
+412	"stat. ach. 1.43"	"non potui infelix, **cum** **primum** gurgite nostro"	"verg. aen. 12.735"	"Fama est praecipitem, **cum** **prima** in proelia iunctos"	"primus; cum"	7
+413	"stat. ach. 1.43"	"**non** **potui** infelix, cum primum gurgite nostro"	"verg. aen. 12.776"	"**non** **poterat**. Tum vero amens formidine Turnus"	"non; possum"	9
+414	"stat. ach. 1.43"	"non potui **infelix**, **cum** primum gurgite nostro"	"verg. aen. 12.941"	"coeperat, **infelix** umero **cum** apparuit alto"	"cum; infelix"	7
+415	"stat. ach. 1.44"	"Rhoeteae **cecidere** trabes, attollere **magnum**"	"verg. aen. 9.711"	"saxea pila **cadit**, **magnis** quam molibus ante"	"magnus; cado"	8
+416	"stat. ach. 1.44"	"Rhoeteae **cecidere** trabes, attollere **magnum**"	"verg. aen. 10.830"	"Aeneae **magni** dextra **cadis**.“ Increpat ultro"	"magnus; cado"	9
+417	"stat. ach. 1.45"	"**aequor** et incesti praedonis **vela** profunda"	"verg. aen. 4.587"	"vidit, et **aequatis** classem procedere **velis**,"	"aequo; uela-uelum"	8
+418	"stat. ach. 1.45"	"**aequor** et incesti praedonis **vela** profunda"	"verg. aen. 7.7"	"**aequora**, tendit iter **velis** portumque relinquit."	"aequor; uela-uelum"	7
+419	"stat. ach. 1.46"	"tempestate **sequi** **cunctasque** inferre sorores?"	"verg. aen. 5.227"	"Tum vero ingeminat clamor, **cunctique** **sequentem**"	"sequor; cunctus"	9
+420	"stat. ach. 1.46"	"tempestate **sequi** cunctasque **inferre** sorores?"	"verg. aen. 10.66"	"bella **sequi** aut hostem regi se **inferre** Latino?"	"sequor; infero"	8
+421	"stat. ach. 1.47"	"**nunc** quoque — **sed** tardum, iam plena iniuria raptae,"	"verg. aen. 4.345"	"**Sed** **nunc** Italiam magnam Gryneus Apollo,"	"sed; nunc"	5
+422	"stat. ach. 1.47"	"nunc quoque — **sed** **tardum**, iam plena iniuria raptae,"	"verg. aen. 5.431"	"hic membris et mole valens, **sed** **tarda** trementi"	"sed; tardus"	8
+423	"stat. ach. 1.47"	"**nunc** **quoque** — sed tardum, iam plena iniuria raptae,"	"verg. aen. 5.812"	"**Nunc** **quoque** mens eadem perstat mihi: pelle timores."	"nunc; quisque-quoque"	7
+424	"stat. ach. 1.47"	"**nunc** quoque — **sed** tardum, iam plena iniuria raptae,"	"verg. aen. 6.315"	"Navita **sed** tristis **nunc** hos **nunc** accipit illos,"	"sed; nunc"	6
+425	"stat. ach. 1.47"	"**nunc** **quoque** — sed tardum, iam plena iniuria raptae,"	"verg. aen. 6.816"	"**nunc** **quoque** iam nimium gaudens popularibus auris."	"nunc; quisque-quoque"	7
+426	"stat. ach. 1.47"	"nunc quoque — **sed** **tardum**, iam plena iniuria raptae,"	"verg. aen. 8.508"	"**Sed** mihi **tarda** gelu saeclisque effeta senectus"	"sed; tardus"	8
+427	"stat. ach. 1.47"	"**nunc** **quoque** — sed tardum, iam plena iniuria raptae,"	"verg. aen. 10.281"	"**quisque** suae tectique memor, **nunc** magna referto"	"quisque; nunc"	7
+428	"stat. ach. 1.47"	"nunc quoque — **sed** tardum, iam plena iniuria **raptae**,"	"verg. aen. 10.308"	"Nec Turnum segnis retinet mora, **sed** **rapit** acer"	"sed; rapio"	7
+429	"stat. ach. 1.47"	"**nunc** **quoque** — sed tardum, iam plena iniuria raptae,"	"verg. aen. 11.173"	"tu **quoque** **nunc** stares immanis truncus in armis,"	"nunc; quisque-quoque"	7
+430	"stat. ach. 1.47"	"nunc **quoque** — **sed** tardum, iam plena iniuria raptae,"	"verg. aen. 11.309"	"ponite. Spes sibi **quisque**, **sed** haec quam angusta videtis;"	"sed; quisque"	7
+431	"stat. ach. 1.47"	"**nunc** quoque — **sed** tardum, iam plena iniuria raptae,"	"verg. aen. 11.509"	"quasve referre parem? **Sed** **nunc**, est omnia quando"	"sed; nunc"	5
+432	"stat. ach. 1.47"	"**nunc** quoque — **sed** tardum, iam plena iniuria raptae,"	"verg. aen. 12.634"	"et **nunc** nequiquam fallis dea. **Sed** quis Olympo"	"sed; nunc"	5
+433	"stat. ach. 1.48"	"**ibo** tamen **pelagique** deos dextramque secundi,"	"verg. aen. 1.246"	"**it** mare proruptum et **pelago** premit arva sonanti."	"pelagus; eo"	8
+434	"stat. ach. 1.48"	"ibo tamen **pelagique** **deos** dextramque secundi,"	"verg. aen. 2.181"	"arma **deosque** parant comites, **pelagoque** remenso"	"pelagus; deus"	9
+435	"stat. ach. 1.48"	"ibo **tamen** **pelagique** deos dextramque secundi,"	"verg. aen. 3.478"	"Et **tamen** hanc **pelago** praeterlabare necesse est;"	"tamen; pelagus"	7
+436	"stat. ach. 1.48"	"ibo tamen pelagique **deos** dextramque **secundi**,"	"verg. aen. 4.45"	"**Dis** equidem auspicibus reor et Iunone **secunda**"	"secundus; deus"	8
+437	"stat. ach. 1.48"	"ibo **tamen** pelagique **deos** dextramque secundi,"	"verg. aen. 4.396"	"iussa **tamen** **divom** exsequitur, classemque revisit."	"tamen; deus"	7
+438	"stat. ach. 1.48"	"ibo tamen **pelagique** **deos** dextramque secundi,"	"verg. aen. 5.235"	"**Di**, quibus imperium est **pelagi**, quorum aequora curro,"	"pelagius-pelagus; deus"	8
+439	"stat. ach. 1.48"	"**ibo** tamen pelagique **deos** dextramque secundi,"	"verg. aen. 6.461"	"Sed me iussa **deum**, quae nunc has **ire** per umbras,"	"eo; deus"	7
+440	"stat. ach. 1.48"	"**ibo** tamen pelagique **deos** dextramque secundi,"	"verg. aen. 6.589"	"**ibat** ovans, **divomque** sibi poscebat honorem,---"	"eo; deus"	8
+441	"stat. ach. 1.48"	"ibo tamen pelagique **deos** **dextramque** secundi,"	"verg. aen. 7.498"	"nec **dextrae** erranti **deus** afuit, actaque multo"	"dexter-dextera; deus"	8
+442	"stat. ach. 1.48"	"ibo tamen pelagique deos **dextramque** **secundi**,"	"verg. aen. 8.302"	"et nos et tua **dexter** adi pede sacra **secundo**.“"	"dexter; secundus"	8
+443	"stat. ach. 1.48"	"**ibo** tamen pelagique deos **dextramque** secundi,"	"verg. aen. 8.558"	"tum pater Evandrus **dextram** complexus **euntis**"	"eo; dexter-dextera"	8
+444	"stat. ach. 1.48"	"ibo tamen pelagique **deos** dextramque **secundi**,"	"verg. aen. 8.682"	"Parte alia ventis et **dis** Agrippa **secundis**"	"secundus; deus"	8
+445	"stat. ach. 1.48"	"**ibo** tamen **pelagique** deos dextramque secundi,"	"verg. aen. 9.117"	"**ite** deae **pelagi**: genetrix iubet.” Et sua quaeque"	"pelagius-pelagus; eo"	8
+446	"stat. ach. 1.48"	"**ibo** tamen pelagique **deos** dextramque secundi,"	"verg. aen. 10.101"	"infit; **eo** dicente **deum** domus alta silescit"	"eo; deus"	8
+447	"stat. ach. 1.48"	"ibo tamen **pelagique** **deos** dextramque secundi,"	"verg. aen. 10.378"	"**deest** iam terra fugae: **pelagus** Troiamne petemus?“"	"pelagus; deus"	10
+448	"stat. ach. 1.48"	"ibo tamen pelagique **deos** **dextramque** secundi,"	"verg. aen. 10.773"	"”**Dextra** mihi **deus** et telum, quod missile libro,"	"dexter-dextera; deus"	8
+449	"stat. ach. 1.48"	"ibo tamen pelagique **deos** **dextramque** secundi,"	"verg. aen. 11.118"	"vixet, cui vitam **deus** aut sua **dextra** dedisset."	"dexter-dextera; deus"	8
+450	"stat. ach. 1.48"	"**ibo** tamen pelagique **deos** dextramque secundi,"	"verg. aen. 12.839"	"supra homines, supra **ire** **deos** pietate videbis,"	"eo; deus"	8
+451	"stat. ach. 1.49"	"quod superest, complexa Iovis **per** Tethyos **annos**"	"verg. aen. 1.31"	"arcebat longe Latio, multosque **per** **annos**"	"annus; per"	7
+452	"stat. ach. 1.49"	"quod **superest**, complexa **Iovis** per Tethyos annos"	"verg. aen. 1.223"	"Et iam finis erat, cum **Iuppiter** aethere **summo**"	"superus; iuppiter"	8
+453	"stat. ach. 1.49"	"quod **superest**, complexa **Iovis** per Tethyos annos"	"verg. aen. 1.380"	"Italiam quaero patriam et genus ab **Iove** **summo**."	"superus; iuppiter"	8
+454	"stat. ach. 1.49"	"**quod** **superest**, complexa Iovis **per** Tethyos annos"	"verg. aen. 2.141"	"**Quod** te **per** **superos** et conscia numina veri,"	"superus; per; quod"	8
+455	"stat. ach. 1.49"	"quod superest, complexa Iovis **per** Tethyos **annos**"	"verg. aen. 2.363"	"Urbs antiqua ruit, multos dominata **per** **annos**;"	"annus; per"	7
+456	"stat. ach. 1.49"	"**quod** superest, complexa Iovis **per** Tethyos annos"	"verg. aen. 2.664"	"Hoc erat, alma parens, **quod** me **per** tela, **per** ignis"	"per; quod"	6
+457	"stat. ach. 1.49"	"quod superest, complexa Iovis **per** Tethyos **annos**"	"verg. aen. 2.715"	"religione patrum multos servata **per** **annos**."	"annus; per"	7
+458	"stat. ach. 1.49"	"quod **superest**, complexa Iovis **per** Tethyos annos"	"verg. aen. 3.600"	"**per** **superos** atque hoc caeli spirabile lumen,"	"superus; per"	8
+459	"stat. ach. 1.49"	"**quod** **superest**, complexa Iovis per Tethyos annos"	"verg. aen. 5.691"	"Vel tu, **quod** **superest** infesto fulmine morti,"	"quod; supersum-superus-supo"	8
+460	"stat. ach. 1.49"	"**quod** **superest**, complexa Iovis **per** Tethyos annos"	"verg. aen. 5.796"	"**Quod** **superest**, oro, liceat dare tuta **per** undas"	"per; quod; supersum-superus-supo"	8
+461	"stat. ach. 1.49"	"quod **superest**, complexa Iovis **per** Tethyos annos"	"verg. aen. 5.819"	"Caeruleo **per** **summa** levis volat aequora curru;"	"superus; per"	7
+462	"stat. ach. 1.49"	"quod **superest**, complexa **Iovis** per Tethyos annos"	"verg. aen. 6.123"	"quid memorem Alciden? Et mi genus ab **Iove** **summo**.”"	"superus; iuppiter"	8
+463	"stat. ach. 1.49"	"**quod** superest, complexa Iovis **per** Tethyos annos"	"verg. aen. 6.363"	"**Quod** te **per** caeli iucundum lumen et auras,"	"per; quod"	5
+464	"stat. ach. 1.49"	"quod **superest**, complexa Iovis **per** Tethyos annos"	"verg. aen. 6.459"	"**per** **superos**, et si qua fides tellure sub ima est,"	"superus; per"	8
+465	"stat. ach. 1.49"	"quod **superest**, complexa **Iovis** per Tethyos annos"	"verg. aen. 6.584"	"adgressi, **superisque** **Iovem** detrudere regnis."	"superus-supo; iuppiter"	10
+466	"stat. ach. 1.49"	"quod superest, complexa Iovis **per** Tethyos **annos**"	"verg. aen. 6.748"	"Has omnes, ubi mille rotam volvere **per** **annos**,"	"annus; per"	7
+467	"stat. ach. 1.49"	"quod superest, complexa Iovis **per** Tethyos **annos**"	"verg. aen. 7.60"	"sacra comam multosque metu servata **per** **annos**,"	"annus; per"	7
+468	"stat. ach. 1.49"	"quod **superest**, complexa **Iovis** per Tethyos annos"	"verg. aen. 7.220"	"gaudet avo, rex ipse **Iovis** de gente **suprema**,"	"superus; iuppiter"	8
+469	"stat. ach. 1.49"	"quod **superest**, complexa Iovis **per** Tethyos annos"	"verg. aen. 7.808"	"Illa vel intactae segetis **per** **summa** volaret"	"superus; per"	7
+470	"stat. ach. 1.49"	"quod **superest**, complexa Iovis **per** Tethyos **annos**"	"verg. aen. 8.399"	"stare decemque alios Priamum **superesse** **per** **annos**."	"supersum; annus; per"	8
+471	"stat. ach. 1.49"	"quod superest, complexa **Iovis** per Tethyos **annos**"	"verg. aen. 8.560"	"”O mihi praeteritos referat si **Iuppiter** **annos**,"	"annus; iuppiter"	8
+472	"stat. ach. 1.49"	"quod superest, complexa Iovis **per** Tethyos **annos**"	"verg. aen. 9.85"	"[Pinea silva mihi, multos dilecta **per** **annos**]"	"annus; per"	7
+473	"stat. ach. 1.49"	"**quod** **superest**, complexa Iovis per Tethyos annos"	"verg. aen. 9.157"	"**quod** **superest**, laeti bene gestis corpora rebus"	"quod; supersum-superus-supo"	8
+474	"stat. ach. 1.49"	"quod superest, complexa **Iovis** **per** Tethyos annos"	"verg. aen. 9.624"	"constitit, ante **Iovem** supplex **per** vota precatus:"	"per; iuppiter"	8
+475	"stat. ach. 1.49"	"**quod** **superest**, complexa Iovis per Tethyos annos"	"verg. aen. 11.15"	"**quod** **superest**: haec sunt spolia et de rege superbo"	"quod; supersum-superus-supo"	8
+476	"stat. ach. 1.49"	"quod **superest**, complexa Iovis **per** Tethyos annos"	"verg. aen. 12.434"	"**summaque** **per** galeam delibans oscula fatur:"	"superus; per"	9
+477	"stat. ach. 1.50"	"grandaevumque **patrem** supplex **miseranda** rogabo"	"verg. aen. 9.495"	"aut tu, magne **pater** divom, **miserere** tuoque"	"pater; misero-miseror"	8
+478	"stat. ach. 1.50"	"grandaevumque **patrem** supplex **miseranda** rogabo"	"verg. aen. 11.63"	"exigua ingentis, **misero** sed debita **patri**."	"pater; misero"	8
+479	"stat. ach. 1.50"	"grandaevumque patrem **supplex** **miseranda** rogabo"	"verg. aen. 11.365"	"nil moror, en **supplex** venio. **Miserere** tuorum,"	"supplex; misero-miseror"	8
+480	"stat. ach. 1.51"	"unam hiemem.” **dixit** magnumque in tempore **regem**"	"verg. aen. 1.137"	"Maturate fugam, **regique** haec **dicite** vestro:"	"rex; dico"	9
+481	"stat. ach. 1.51"	"unam hiemem.” dixit **magnumque** in tempore **regem**"	"verg. aen. 1.241"	"insequitur. Quem das finem, **rex** **magne**, laborum?"	"magnus; rex"	8
+482	"stat. ach. 1.51"	"unam hiemem.” dixit **magnumque** in tempore **regem**"	"verg. aen. 2.58"	"pastores **magno** ad **regem** clamore trahebant"	"magnus; rex"	8
+483	"stat. ach. 1.51"	"unam hiemem.” **dixit** **magnumque** in tempore regem"	"verg. aen. 4.238"	"**Dixerat**. Ille patris **magni** parere parabat"	"magnus; dico"	8
+484	"stat. ach. 1.51"	"unam hiemem.” dixit **magnumque** in tempore **regem**"	"verg. aen. 5.533"	"”Sume, pater; nam te voluit **rex** **magnus** Olympi"	"magnus; rex"	8
+485	"stat. ach. 1.51"	"**unam** hiemem.” dixit **magnumque** in tempore regem"	"verg. aen. 5.644"	"Iliadum. Hic **una** e multis, quae **maxima** natu,"	"magnus; unus"	7
+486	"stat. ach. 1.51"	"**unam** hiemem.” **dixit** magnumque in tempore regem"	"verg. aen. 6.752"	"**Dixerat** Anchises, natumque **unaque** Sibyllam"	"dico; unus"	8
+487	"stat. ach. 1.51"	"unam hiemem.” dixit magnumque in **tempore** **regem**"	"verg. aen. 7.37"	"Nunc age, qui **reges**, Erato, quae **tempora** rerum,"	"rex; tempus"	8
+488	"stat. ach. 1.51"	"unam hiemem.” dixit **magnumque** in tempore **regem**"	"verg. aen. 7.45"	"**maius** opus moveo.**Rex** arva Latinus et urbes"	"magnus; rex"	8
+489	"stat. ach. 1.51"	"unam hiemem.” **dixit** **magnumque** in tempore regem"	"verg. aen. 7.412"	"**dictus** avis, et nunc **magnum** manet Ardea nomen,"	"magnus; dico"	9
+490	"stat. ach. 1.51"	"unam hiemem.” dixit **magnumque** in tempore **regem**"	"verg. aen. 7.432"	"Caelestum vis **magna** iubet.  **Rex** ipse Latinus,"	"magnus; rex"	7
+491	"stat. ach. 1.51"	"unam hiemem.” **dixit** magnumque in tempore **regem**"	"verg. aen. 8.12"	"inferre et fatis **regem** se **dicere** posci"	"rex; dico"	7
+492	"stat. ach. 1.51"	"unam hiemem.” **dixit** magnumque in tempore **regem**"	"verg. aen. 8.126"	"Tum **regem** Aeneas **dictis** adfatur amicis:"	"rex; dico"	7
+493	"stat. ach. 1.51"	"unam hiemem.” **dixit** **magnumque** in tempore regem"	"verg. aen. 8.272"	"**dicetur** nobis et erit quae **maxuma** semper."	"magnus; dico"	9
+494	"stat. ach. 1.51"	"unam hiemem.” dixit **magnumque** in **tempore** regem"	"verg. aen. 10.503"	"Turno **tempus** erit, **magno** cum optaverit emptum"	"magnus; tempus"	8
+495	"stat. ach. 1.51"	"unam hiemem.” **dixit** **magnumque** in tempore regem"	"verg. aen. 10.547"	"**dixerat** ille aliquid **magnum** vimque adfore verbo"	"magnus; dico"	8
+496	"stat. ach. 1.51"	"**unam** hiemem.” **dixit** magnumque in tempore regem"	"verg. aen. 11.132"	"**Dixerat** haec, **unoque** omnes eadem ore fremebant."	"dico; unus"	9
+497	"stat. ach. 1.51"	"**unam** hiemem.” **dixit** magnumque in tempore **regem**"	"verg. aen. 11.353"	"Dardanidis **dicique** iubes, **unum**, optime **regum**,"	"rex; dico; unus"	9
+498	"stat. ach. 1.51"	"unam hiemem.” dixit **magnumque** in **tempore** regem"	"verg. aen. 12.96"	"hasta meos, nunc **tempus** adest: te **maximus** Actor"	"magnus; tempus"	8
+499	"stat. ach. 1.52"	"aspicit. Oceano **veniebat** **ab** hospite, mensis"	"verg. aen. 1.369"	"Sed vos qui tandem, quibus aut **venistis** **ab** oris,"	"ab; uenio"	9
+500	"stat. ach. 1.52"	"aspicit. Oceano veniebat **ab** **hospite**, mensis"	"verg. aen. 1.753"	"“Immo age, et **a** prima dic, **hospes**, origine nobis"	"ab; hospes"	8
+501	"stat. ach. 1.52"	"aspicit. Oceano **veniebat** **ab** hospite, mensis"	"verg. aen. 3.130"	"Prosequitur surgens **a** puppi **ventus** euntis"	"ab; uenio"	8
+502	"stat. ach. 1.52"	"aspicit. Oceano **veniebat** **ab** hospite, mensis"	"verg. aen. 3.570"	"Portus **ab** accessu **ventorum** immotus et ingens"	"ab; uenio"	9
+503	"stat. ach. 1.52"	"aspicit. Oceano **veniebat** **ab** hospite, mensis"	"verg. aen. 4.258"	"materno **veniens** **ab** avo Cyllenia proles."	"ab; uenio"	8
+504	"stat. ach. 1.52"	"aspicit. Oceano **veniebat** **ab** hospite, mensis"	"verg. aen. 5.444"	"extulit: ille ictum **venientem** **a** vertice velox"	"ab; uenio"	8
+505	"stat. ach. 1.52"	"aspicit. Oceano **veniebat** **ab** hospite, mensis"	"verg. aen. 5.777"	"Prosequitur surgens **a** puppi **ventus** euntes."	"ab; uenio"	8
+506	"stat. ach. 1.52"	"**aspicit**. **Oceano** veniebat ab hospite, mensis"	"verg. aen. 7.101"	"**aspicit** **Oceanum**, vertique regique videbunt.“"	"aspicio; oceanum-oceanus"	9
+507	"stat. ach. 1.52"	"**aspicit**. Oceano **veniebat** ab hospite, mensis"	"verg. aen. 7.218"	"extremo **veniens** Sol **aspiciebat** Olympo."	"aspicio; uenio"	10
+508	"stat. ach. 1.52"	"aspicit. Oceano **veniebat** **ab** hospite, mensis"	"verg. aen. 8.319"	"Primus **ab** aetherio **venit** Saturnus Olympo,"	"ab; uenio"	8
+509	"stat. ach. 1.52"	"aspicit. Oceano **veniebat** **ab** hospite, mensis"	"verg. aen. 9.668"	"quantus **ab** occasu **veniens** pluvialibus Haedis"	"ab; uenio"	8
+510	"stat. ach. 1.52"	"aspicit. Oceano **veniebat** **ab** hospite, mensis"	"verg. aen. 11.358"	"ipsum obtestemur **veniamque** oremus **ab** ipso:"	"ab; uenio"	9
+511	"stat. ach. 1.52"	"aspicit. Oceano **veniebat** **ab** hospite, mensis"	"verg. aen. 11.802"	"nec sonitus memor aut **venientis** **ab** aethere teli,"	"ab; uenio"	9
+512	"stat. ach. 1.52"	"aspicit. Oceano **veniebat** **ab** hospite, mensis"	"verg. aen. 12.446"	"Vidit **ab** adverso **venientis** aggere Turnus,"	"ab; uenio"	8
+513	"stat. ach. 1.57"	"rege salutato; **placidis** ipse arduus **undis**"	"verg. aen. 1.127"	"prospiciens, summa **placidum** caput extulit **unda**."	"placidus; unda"	9
+514	"stat. ach. 1.57"	"**rege** salutato; placidis **ipse** arduus undis"	"verg. aen. 1.575"	"Atque utinam **rex** **ipse** Noto compulsus eodem"	"rex; ipse"	7
+515	"stat. ach. 1.57"	"rege salutato; placidis **ipse** **arduus** undis"	"verg. aen. 3.619"	"intus opaca, ingens; **ipse** **arduus**, altaque pulsat"	"arduus; ipse"	8
+516	"stat. ach. 1.57"	"**rege** salutato; placidis **ipse** arduus undis"	"verg. aen. 4.336"	"dum memor **ipse** mei, dum spiritus hos **regit** artus."	"rego; ipse"	7
+517	"stat. ach. 1.57"	"**rege** salutato; placidis **ipse** arduus **undis**"	"verg. aen. 5.868"	"sensit, et **ipse** ratem nocturnis **rexit** in **undis**,"	"unda; rego; ipse"	9
+518	"stat. ach. 1.57"	"**rege** salutato; placidis **ipse** arduus undis"	"verg. aen. 6.396"	"**ipsius** a solio **regis**, traxitque trementem;"	"rego-rex; ipse"	8
+519	"stat. ach. 1.57"	"**rege** salutato; **placidis** ipse arduus undis"	"verg. aen. 7.46"	"iam senior longa **placidas** in pace **regebat**."	"placidus; rego"	9
+520	"stat. ach. 1.57"	"**rege** salutato; placidis **ipse** arduus undis"	"verg. aen. 7.220"	"gaudet avo, **rex** **ipse** Iovis de gente suprema,"	"rex; ipse"	7
+521	"stat. ach. 1.57"	"**rege** salutato; placidis **ipse** arduus undis"	"verg. aen. 7.432"	"Caelestum vis magna iubet.  **Rex** **ipse** Latinus,"	"rex; ipse"	7
+522	"stat. ach. 1.57"	"**rege** salutato; placidis **ipse** arduus undis"	"verg. aen. 7.556"	"egregium Veneris genus et **rex** **ipse** Latinus."	"rex; ipse"	7
+523	"stat. ach. 1.57"	"**rege** salutato; placidis **ipse** arduus undis"	"verg. aen. 7.560"	"**ipsa** **regam**.“ Talis dederat Saturnia voces."	"rego; ipse"	9
+524	"stat. ach. 1.57"	"**rege** salutato; placidis **ipse** arduus undis"	"verg. aen. 8.57"	"**Ipse** ego te ripis et **recto** flumine ducam,"	"rego; ipse"	8
+525	"stat. ach. 1.57"	"**rege** salutato; **placidis** ipse arduus undis"	"verg. aen. 8.325"	"saecula. Sic **placida** populos in pace **regebat**,"	"placidus; rego"	8
+526	"stat. ach. 1.57"	"**rege** salutato; placidis **ipse** arduus undis"	"verg. aen. 9.223"	"**ipse** comes Niso graditur, **regemque** requirunt."	"rex; ipse"	8
+527	"stat. ach. 1.57"	"**rege** salutato; placidis **ipse** arduus undis"	"verg. aen. 9.274"	"insuper his campi quod **rex** habet **ipse** Latinus."	"rex; ipse"	7
+528	"stat. ach. 1.57"	"**rege** salutato; placidis **ipse** arduus undis"	"verg. aen. 10.218"	"**ipse** sedens clavumque **regit** velisque ministrat."	"rego; ipse"	8
+529	"stat. ach. 1.57"	"**rege** salutato; placidis **ipse** arduus undis"	"verg. aen. 11.231"	"Deficit ingenti luctu **rex** **ipse** Latinus."	"rex; ipse"	7
+530	"stat. ach. 1.57"	"rege salutato; placidis **ipse** **arduus** undis"	"verg. aen. 11.513"	"praemisit, quaterent campos; **ipse** **ardua** montis"	"arduus; ipse"	8
+531	"stat. ach. 1.57"	"**rege** salutato; placidis **ipse** arduus undis"	"verg. aen. 12.585"	"Dardanidis **ipsumque** trahunt in moenia **regem**,"	"rex; ipse"	8
+532	"stat. ach. 1.57"	"**rege** salutato; placidis **ipse** arduus undis"	"verg. aen. 12.657"	"in te oculos referunt; mussat **rex** **ipse** Latinus,"	"rex; ipse"	7
+533	"stat. ach. 1.58"	"eminet et triplici telo **iubet** **ire** iugales,"	"verg. aen. 3.88"	"Quem sequimur?  Quove **ire** **iubes**?  Ubi ponere sedes?"	"iubeo; eo-iris-irus"	9
+534	"stat. ach. 1.58"	"eminet et triplici **telo** iubet **ire** iugales,"	"verg. aen. 4.149"	"**tela** sonant umeris: haud illo segnior **ibat**"	"telum; eo"	7
+535	"stat. ach. 1.58"	"eminet et triplici telo **iubet** **ire** iugales,"	"verg. aen. 6.461"	"Sed me **iussa** deum, quae nunc has **ire** per umbras,"	"iubeo; eo-iris-irus"	7
+536	"stat. ach. 1.58"	"eminet et triplici telo **iubet** **ire** iugales,"	"verg. aen. 7.154"	"**ire** **iubet**, ramis velatos Palladis omnis,"	"iubeo; eo-iris-irus"	8
+537	"stat. ach. 1.58"	"eminet et triplici telo **iubet** **ire** iugales,"	"verg. aen. 9.117"	"**ite** deae pelagi: genetrix **iubet**.” Et sua quaeque"	"iubeo; eo"	8
+538	"stat. ach. 1.58"	"eminet et triplici **telo** iubet **ire** iugales,"	"verg. aen. 9.748"	"effugies; neque enim **is** **teli** nec volneris auctor.“"	"telum; eo"	9
+539	"stat. ach. 1.59"	"illi spumiferos glomerant **a** **pectore** cursus,"	"verg. aen. 1.371"	"suspirans, imoque trahens **a** **pectore** vocem:"	"a-ab-aulus; pectus"	7
+540	"stat. ach. 1.59"	"illi spumiferos glomerant **a** **pectore** cursus,"	"verg. aen. 1.485"	"Tum vero ingentem gemitum dat **pectore** **ab** imo,"	"ab; pectus"	7
+541	"stat. ach. 1.59"	"illi spumiferos glomerant **a** **pectore** cursus,"	"verg. aen. 6.55"	"ossa tremor, funditque preces rex **pectore** **ab** imo:"	"ab; pectus"	7
+542	"stat. ach. 1.60"	"pone natant delentque **pedum** **vestigia** cauda—"	"verg. aen. 8.209"	"atque hos, nequa forent **pedibus** **vestigia** rectis,"	"uestigium; pes"	8
+543	"stat. ach. 1.60"	"**pone** natant delentque **pedum** vestigia cauda—"	"verg. aen. 10.736"	"Tum super abiectum **posito** **pede** nixus et hasta:"	"pono; pedum-pes"	9
+544	"stat. ach. 1.60"	"pone natant delentque **pedum** **vestigia** cauda—"	"verg. aen. 11.573"	"Utque **pedum** primis infans **vestigia** plantis"	"pedum-pes; uestigium"	8
+545	"stat. ach. 1.61"	"**cum** Thetis: “o **magni** genitor rectorque profundi,"	"verg. aen. 1.55"	"Illi indignantes **magno** **cum** murmure montis"	"magnus; cum"	7
+546	"stat. ach. 1.61"	"**cum** Thetis: “o **magni** genitor rectorque profundi,"	"verg. aen. 1.148"	"Ac veluti **magno** in populo **cum** saepe coorta est"	"magnus; cum"	6
+547	"stat. ach. 1.61"	"**cum** Thetis: “o **magni** genitor rectorque profundi,"	"verg. aen. 1.509"	"**cum** subito Aeneas concursu accedere **magno**"	"magnus; cum"	6
+548	"stat. ach. 1.61"	"cum Thetis: “o **magni** **genitor** rectorque profundi,"	"verg. aen. 1.716"	"et **magnum** falsi implevit **genitoris** amorem,"	"genitor; magnus"	8
+549	"stat. ach. 1.61"	"**cum** Thetis: “o **magni** genitor rectorque profundi,"	"verg. aen. 3.12"	"**cum** sociis natoque Penatibus et **magnis** dis."	"magnus; cum"	7
+550	"stat. ach. 1.61"	"**cum** Thetis: “o **magni** genitor rectorque profundi,"	"verg. aen. 3.49"	"Hunc Polydorum auri quondam **cum** pondere **magno**"	"magnus; cum"	6
+551	"stat. ach. 1.61"	"**cum** Thetis: “o magni **genitor** rectorque profundi,"	"verg. aen. 4.208"	"aspicis haec, an te, **genitor**, **cum** fulmina torques,"	"genitor; cum"	7
+552	"stat. ach. 1.61"	"cum Thetis: “o **magni** **genitor** rectorque profundi,"	"verg. aen. 5.537"	"Anchisae **genitori** in **magno** munere Cisseus"	"genitor; magnus"	8
+553	"stat. ach. 1.61"	"cum Thetis: “**o** **magni** genitor rectorque profundi,"	"verg. aen. 6.83"	"“**O** tandem **magnis** pelagi defuncte periclis!"	"magnus; o"	7
+554	"stat. ach. 1.61"	"cum Thetis: “**o** magni **genitor** rectorque profundi,"	"verg. aen. 7.360"	"**O** **genitor**, nec te miseret gnataeque tuique ?"	"genitor; o"	7
+555	"stat. ach. 1.61"	"**cum** Thetis: “o **magni** genitor rectorque profundi,"	"verg. aen. 7.462"	"ira super: **magno** veluti **cum** flamma sonore"	"magnus; cum"	6
+556	"stat. ach. 1.61"	"**cum** Thetis: “**o** magni **genitor** rectorque profundi,"	"verg. aen. 8.72"	"tuque, **o** Thybri tuo **genitor** **cum** flumine sancto,"	"genitor; cum; o"	7
+557	"stat. ach. 1.61"	"cum Thetis: “**o** **magni** genitor **rectorque** profundi,"	"verg. aen. 8.572"	"At vos, **o** superi, et divom tu **maxume** **rector**"	"magnus; o; rector"	10
+558	"stat. ach. 1.61"	"**cum** Thetis: “o **magni** genitor rectorque profundi,"	"verg. aen. 8.679"	"**cum** patribus populoque, penatibus et **magnis** dis,"	"magnus; cum"	7
+559	"stat. ach. 1.61"	"**cum** Thetis: “o **magni** genitor rectorque profundi,"	"verg. aen. 9.562"	"pendentem et **magna** muri **cum** parte revellit."	"magnus; cum"	6
+560	"stat. ach. 1.61"	"**cum** Thetis: “o **magni** genitor rectorque profundi,"	"verg. aen. 10.503"	"Turno tempus erit, **magno** **cum** optaverit emptum"	"magnus; cum"	7
+561	"stat. ach. 1.61"	"cum Thetis: “**o** **magni** genitor rectorque profundi,"	"verg. aen. 10.507"	"**O** dolor atque decus **magnum** rediture parenti"	"magnus; o"	7
+562	"stat. ach. 1.61"	"**cum** Thetis: “o **magni** genitor rectorque profundi,"	"verg. aen. 10.764"	"**cum** pedes incedit medii per **maxima** Nerei"	"magnus; cum"	7
+563	"stat. ach. 1.61"	"**cum** Thetis: “o **magni** genitor rectorque profundi,"	"verg. aen. 12.473"	"Nigra velut **magnas** domini **cum** divitis aedes"	"magnus; cum"	8
+564	"stat. ach. 1.61"	"**cum** Thetis: “**o** magni genitor rectorque profundi,"	"verg. aen. 12.632"	"”**O** soror, et dudum adgnovi, **cum** prima per artem"	"cum; o"	5
+565	"stat. ach. 1.62"	"aspicis in quales **miserum** patefeceris **usus**"	"verg. aen. 12.932"	"“**utere** sorte tua. **Miseri** te siqua parentis"	"utor; miser-miserum"	9
+566	"stat. ach. 1.63"	"**aequor**? eunt **tutis** terrarum crimina velis,"	"verg. aen. 1.164"	"**aequora** **tuta** silent; tum silvis scaena coruscis"	"aequor; tueor"	8
+567	"stat. ach. 1.63"	"**aequor**? **eunt** tutis terrarum crimina velis,"	"verg. aen. 1.376"	"Troiae nomen **iit**, diversa per **aequora** vectos"	"aequor; eo"	9
+568	"stat. ach. 1.63"	"aequor? eunt tutis **terrarum** crimina **velis**,"	"verg. aen. 1.629"	"iactatam hac demum **voluit** consistere **terra**."	"terra; uolo"	8
+569	"stat. ach. 1.63"	"aequor? eunt tutis **terrarum** crimina **velis**,"	"verg. aen. 2.800"	"in quascumque **velim** pelago deducere **terras**."	"terra; uolo"	9
+570	"stat. ach. 1.63"	"aequor? **eunt** tutis terrarum crimina **velis**,"	"verg. aen. 3.376"	"sortitur, **volvitque** vices; **is** vertitur ordo---"	"uolo; eo"	9
+571	"stat. ach. 1.63"	"aequor? eunt **tutis** **terrarum** crimina velis,"	"verg. aen. 3.387"	"quam **tuta** possis urbem componere **terra**:"	"terra; tueor"	8
+572	"stat. ach. 1.63"	"aequor? eunt tutis **terrarum** crimina **velis**,"	"verg. aen. 4.184"	"Nocte **volat** caeli medio **terraeque** per umbram,"	"terra; uolo"	8
+573	"stat. ach. 1.63"	"**aequor**? eunt tutis terrarum crimina **velis**,"	"verg. aen. 4.255"	"piscosos scopulos humilis **volat** **aequora** iuxta."	"aequor; uolo"	7
+574	"stat. ach. 1.63"	"aequor? eunt tutis **terrarum** crimina **velis**,"	"verg. aen. 4.256"	"Haud aliter **terras** inter caelumque **volabat**,"	"terra; uolo"	9
+575	"stat. ach. 1.63"	"aequor? **eunt** tutis **terrarum** crimina velis,"	"verg. aen. 4.468"	"**ire** viam, et Tyrios deserta quaerere **terra**."	"terra; eo"	7
+576	"stat. ach. 1.63"	"**aequor**? eunt tutis terrarum crimina **velis**,"	"verg. aen. 4.587"	"vidit, et **aequatis** classem procedere **velis**,"	"aequo; uela-uelum-uolo"	8
+577	"stat. ach. 1.63"	"aequor? **eunt** tutis **terrarum** crimina velis,"	"verg. aen. 4.654"	"et nunc magna mei sub **terras** **ibit** imago."	"terra; eo"	9
+578	"stat. ach. 1.63"	"**aequor**? eunt **tutis** terrarum crimina velis,"	"verg. aen. 5.171"	"praeterit, et metis tenet **aequora** **tuta** relictis."	"aequor; tueor"	8
+579	"stat. ach. 1.63"	"aequor? **eunt** tutis terrarum crimina **velis**,"	"verg. aen. 5.769"	"**ire** **volunt**, omnemque fugae perferre laborem."	"uolo; eo"	8
+580	"stat. ach. 1.63"	"**aequor**? eunt tutis terrarum crimina **velis**,"	"verg. aen. 5.819"	"Caeruleo per summa levis **volat** **aequora** curru;"	"aequor; uolo"	7
+581	"stat. ach. 1.63"	"**aequor**? eunt **tutis** terrarum crimina velis,"	"verg. aen. 5.862"	"Currit iter **tutum** non secius **aequore** classis,"	"aequor; tueor"	8
+582	"stat. ach. 1.63"	"aequor? eunt **tutis** **terrarum** crimina velis,"	"verg. aen. 6.358"	"Paulatim adnabam **terrae**; iam **tuta** tenebam,"	"terra; tueor"	8
+583	"stat. ach. 1.63"	"**aequor**? eunt tutis **terrarum** crimina velis,"	"verg. aen. 6.692"	"Quas ego te **terras** et quanta per **aequora** vectum"	"aequor; terra"	7
+584	"stat. ach. 1.63"	"**aequor**? eunt tutis **terrarum** crimina velis,"	"verg. aen. 6.782"	"imperium **terris**, animos **aequabit** Olympo,"	"aequo; terra"	9
+585	"stat. ach. 1.63"	"**aequor**? eunt tutis terrarum crimina **velis**,"	"verg. aen. 7.7"	"**aequora**, tendit iter **velis** portumque relinquit."	"aequor; uela-uelum-uolo"	7
+586	"stat. ach. 1.63"	"**aequor**? **eunt** tutis terrarum crimina velis,"	"verg. aen. 7.698"	"**Ibant** **aequati** numero regemque canebant,"	"aequo; eo"	10
+587	"stat. ach. 1.63"	"aequor? eunt **tutis** terrarum crimina **velis**,"	"verg. aen. 11.381"	"quae **tuto** tibi magna **volant**, dum distinet hostem"	"uolo; tueor"	9
+588	"stat. ach. 1.63"	"**aequor**? eunt tutis terrarum crimina **velis**,"	"verg. aen. 11.746"	"convertere oculos. **Volat** igneus **aequore** Tarchon"	"aequor; uolo"	7
+589	"stat. ach. 1.63"	"aequor? eunt tutis **terrarum** crimina **velis**,"	"verg. aen. 12.855"	"Illa **volat** celerique ad **terram** turbine fertur."	"terra; uolo"	8
+590	"stat. ach. 1.64"	"**ex** **quo** iura freti maiestatemque repostam"	"verg. aen. 2.163"	"Palladis auxiliis semper stetit.  Impius **ex** **quo**"	"ex; quo"	7
+591	"stat. ach. 1.64"	"**ex** **quo** iura freti maiestatemque repostam"	"verg. aen. 2.648"	"demoror, **ex** **quo** me divom pater atque hominum rex"	"ex; quo"	7
+592	"stat. ach. 1.64"	"**ex** **quo** iura freti maiestatemque repostam"	"verg. aen. 3.377"	"pauca tibi **e** multis, **quo** tutior hospita lustres"	"ex; quo"	7
+593	"stat. ach. 1.64"	"**ex** **quo** iura freti maiestatemque repostam"	"verg. aen. 5.47"	"**ex** **quo** reliquias divinique ossa parentis"	"ex; quo"	7
+594	"stat. ach. 1.64"	"**ex** **quo** iura freti maiestatemque repostam"	"verg. aen. 8.47"	"**ex** **quo** ter denis urbem redeuntibus annis"	"ex; quo"	7
+595	"stat. ach. 1.66"	"en **aliud** furto **scelus** et spolia hospita portans"	"verg. aen. 1.347"	"Pygmalion, **scelere** ante **alios** immanior omnes."	"alius; scelus"	9
+596	"stat. ach. 1.66"	"en aliud furto scelus et spolia **hospita** **portans**"	"verg. aen. 3.539"	"Et pater Anchises: ”Bellum, O terra **hospita**, **portas**"	"porto; hospita-hospitus"	9
+597	"stat. ach. 1.66"	"en **aliud** furto scelus et **spolia** hospita portans"	"verg. aen. 11.193"	"Hic **alii** **spolia** occisis derepta Latinis"	"alius; spolio-spolium"	8
+598	"stat. ach. 1.66"	"en **aliud** furto scelus et spolia hospita **portans**"	"verg. aen. 11.473"	"Praefodiunt **alii** **portas** aut saxa sudesque"	"alius; porto"	8
+599	"stat. ach. 1.66"	"en **aliud** furto scelus et spolia hospita **portans**"	"verg. aen. 12.577"	"Discurrunt **alii** ad **portas** primosque trucidant,"	"alius; porto"	8
+600	"stat. ach. 1.68"	"eheu quos gemitus **terris** **caeloque** daturus,"	"verg. aen. 1.58"	"Ni faciat, maria ac **terras** **caelumque** profundum"	"terra; caelum-caelus"	8
+601	"stat. ach. 1.68"	"eheu quos gemitus **terris** caeloque **daturus**,"	"verg. aen. 1.83"	"qua **data** porta, ruunt et **terras** turbine perflant."	"terra; do"	8
+602	"stat. ach. 1.68"	"eheu quos gemitus **terris** **caeloque** daturus,"	"verg. aen. 1.133"	"Iam **caelum** **terramque** meo sine numine, venti,"	"terra; caelum-caelus"	9
+603	"stat. ach. 1.68"	"eheu quos gemitus **terris** **caeloque** daturus,"	"verg. aen. 1.280"	"quae mare nunc **terrasque** metu **caelumque** fatigat,"	"terra; caelum-caelus"	9
+604	"stat. ach. 1.68"	"eheu quos gemitus **terris** **caeloque** daturus,"	"verg. aen. 1.395"	"turbabat **caelo**; nunc **terras** ordine longo"	"terra; caelo-caelum-caelus"	7
+605	"stat. ach. 1.68"	"eheu quos **gemitus** terris caeloque **daturus**,"	"verg. aen. 1.485"	"Tum vero ingentem **gemitum** **dat** pectore ab imo,"	"gemitus-gemo; do"	8
+606	"stat. ach. 1.68"	"eheu quos **gemitus** terris caeloque **daturus**,"	"verg. aen. 2.53"	"insonuere cavae **gemitumque** **dedere** cavernae."	"gemitus-gemo; do"	9
+607	"stat. ach. 1.68"	"eheu quos gemitus **terris** caeloque **daturus**,"	"verg. aen. 2.566"	"ad **terram** misere aut ignibus aegra **dedere**."	"terra; do"	8
+608	"stat. ach. 1.68"	"eheu quos gemitus **terris** **caeloque** daturus,"	"verg. aen. 3.193"	"adparent **terrae**, **caelum** undique et undique pontus,"	"terra; caelum-caelus"	8
+609	"stat. ach. 1.68"	"eheu quos gemitus **terris** **caeloque** daturus,"	"verg. aen. 4.184"	"Nocte volat **caeli** medio **terraeque** per umbram,"	"terra; caelum-caelus"	8
+610	"stat. ach. 1.68"	"eheu quos gemitus **terris** **caeloque** daturus,"	"verg. aen. 4.256"	"Haud aliter **terras** inter **caelumque** volabat,"	"terra; caelum-caelus"	8
+611	"stat. ach. 1.68"	"eheu quos gemitus **terris** **caeloque** daturus,"	"verg. aen. 4.269"	"regnator, **caelum** ac **terras** qui numine torquet;"	"terra; caelum-caelus"	7
+612	"stat. ach. 1.68"	"eheu quos **gemitus** terris caeloque **daturus**,"	"verg. aen. 4.409"	"quosve **dabas** **gemitus**, cum litora fervere late"	"gemitus-gemo; do"	9
+613	"stat. ach. 1.68"	"eheu quos **gemitus** terris caeloque **daturus**,"	"verg. aen. 5.806"	"milia multa **daret** leto, **gemerentque** repleti"	"gemo; do"	10
+614	"stat. ach. 1.68"	"eheu quos gemitus **terris** **caeloque** daturus,"	"verg. aen. 6.724"	"“Principio **caelum** ac **terras** camposque liquentis"	"terra; caelum-caelus"	7
+615	"stat. ach. 1.68"	"eheu quos gemitus **terris** caeloque **daturus**,"	"verg. aen. 7.323"	"Haec ubi dicta **dedit**, **terras** Horrenda petivit:"	"terra; do"	8
+616	"stat. ach. 1.68"	"eheu quos gemitus **terris** **caeloque** daturus,"	"verg. aen. 7.571"	"invisum numen, **terras** **caelumque** levabat."	"terra; caelum-caelus"	8
+617	"stat. ach. 1.68"	"eheu quos gemitus terris **caeloque** **daturus**,"	"verg. aen. 8.523"	"ni signum **caelo** Cytherea **dedisset** aperto."	"do; caelo-caelum-caelus"	9
+618	"stat. ach. 1.68"	"eheu quos gemitus **terris** caeloque **daturus**,"	"verg. aen. 9.485"	"Heu, **terra** ignota canibus **data** praeda Latinis"	"terra; do"	8
+619	"stat. ach. 1.68"	"eheu quos **gemitus** terris caeloque **daturus**,"	"verg. aen. 9.709"	"**Dat** tellus **gemitum**, et clipeum super intonat ingens."	"gemitus-gemo; do"	8
+620	"stat. ach. 1.68"	"eheu quos gemitus **terris** caeloque **daturus**,"	"verg. aen. 10.583"	"his **dabitur** **terris**.“ Vesano talia late"	"terra; do"	8
+621	"stat. ach. 1.68"	"eheu quos gemitus terris **caeloque** **daturus**,"	"verg. aen. 10.633"	"Haec ubi dicta **dedit**, **caelo** se protinus alto"	"do; caelo-caelum-caelus"	8
+622	"stat. ach. 1.68"	"eheu quos **gemitus** terris caeloque **daturus**,"	"verg. aen. 11.377"	"**dat** **gemitum** rumpitque has imo pectore voces"	"gemitus-gemo; do"	8
+623	"stat. ach. 1.68"	"eheu quos gemitus terris **caeloque** **daturus**,"	"verg. aen. 12.245"	"**dat** signum **caelo**, quo non praesentius ullum"	"do; caelo-caelum-caelus"	8
+624	"stat. ach. 1.68"	"eheu quos gemitus terris **caeloque** **daturus**,"	"verg. aen. 12.367"	"qua venti incubuere, fugam **dant** nubila **caelo**:"	"do; caelo-caelum-caelus"	8
+625	"stat. ach. 1.68"	"eheu quos gemitus **terris** caeloque **daturus**,"	"verg. aen. 12.645"	"Terga **dabo** et Turnum fugientem haec **terra** videbit?"	"terra; do"	8
+626	"stat. ach. 1.68"	"eheu quos **gemitus** terris caeloque **daturus**,"	"verg. aen. 12.713"	"**Dat** **gemitum** tellus; tum crebros ensibus ictus"	"gemitus-gemo; do"	8
+627	"stat. ach. 1.69"	"quos mihi! **sic** **Phrygiae** pensamus gaudia palmae,"	"verg. aen. 7.363"	"An non **sic** **Phrygius** penetrat Lacedaemona pastor"	"phrygius; sic"	10
+628	"stat. ach. 1.70"	"hi **veneris** mores, **hoc** gratae munus alumnae?"	"verg. aen. 1.333"	"erramus, **vento** **huc** vastis et fluctibus acti:"	"huc; uenio"	8
+629	"stat. ach. 1.70"	"hi veneris **mores**, **hoc** gratae munus alumnae?"	"verg. aen. 1.539"	"Quod genus **hoc** hominum?  Quaeve hunc tam barbara **morem**"	"huc; mos"	7
+630	"stat. ach. 1.70"	"hi veneris mores, **hoc** gratae **munus** alumnae?"	"verg. aen. 4.429"	"Quo ruit? Extremum **hoc** miserae det **munus** amanti:"	"huc; munus"	8
+631	"stat. ach. 1.70"	"hi **veneris** mores, hoc **gratae** munus alumnae?"	"verg. aen. 5.344"	"**gratior** et pulchro **veniens** in corpore virtus."	"uenio; gratus"	9
+632	"stat. ach. 1.70"	"hi veneris mores, **hoc** gratae **munus** alumnae?"	"verg. aen. 5.361"	"**Hoc** iuvenem egregium praestanti **munere** donat;"	"huc; munus"	8
+633	"stat. ach. 1.70"	"hi veneris mores, **hoc** gratae **munus** alumnae?"	"verg. aen. 5.535"	"Ipsius Anchisae longaevi **hoc** **munus** habebis,"	"huc; munus"	8
+634	"stat. ach. 1.70"	"hi **veneris** mores, **hoc** gratae munus alumnae?"	"verg. aen. 5.726"	"imperio Iovis **huc** **venio**, qui classibus ignem"	"huc; uenio"	9
+635	"stat. ach. 1.70"	"hi veneris mores, **hoc** gratae **munus** alumnae?"	"verg. aen. 6.142"	"**Hoc** sibi pulchra suum ferri Proserpina **munus**"	"huc; munus"	8
+636	"stat. ach. 1.70"	"hi **veneris** mores, **hoc** gratae munus alumnae?"	"verg. aen. 8.172"	"Interea sacra haec, quando **huc** **venistis** amici,"	"huc; uenio"	9
+637	"stat. ach. 1.70"	"hi **veneris** mores, **hoc** gratae munus alumnae?"	"verg. aen. 11.856"	"**huc** periture **veni**, capias ut digna Camillae"	"huc; uenio"	8
+638	"stat. ach. 1.70"	"hi **veneris** mores, **hoc** gratae munus alumnae?"	"verg. aen. 12.416"	"**hoc** **Venus**, obscuro faciem circumdata nimbo,"	"uenus; huc"	8
+639	"stat. ach. 1.71"	"has saltem — **num** semideos **nostrumque** reportant"	"verg. aen. 4.369"	"**Num** fletu ingemuit **nostro**? **Num** lumina flexit?"	"noster; num"	8
+640	"stat. ach. 1.71"	"has saltem — **num** semideos **nostrumque** reportant"	"verg. aen. 10.481"	"”Adspice, **num** mage sit **nostrum** penetrabile telum.“"	"noster; num"	8
+641	"stat. ach. 1.72"	"Thesea? — si quis adhuc undis honor, **obrue** **puppes**,"	"verg. aen. 1.69"	"incute vim ventis submersasque **obrue** **puppes**,"	"obruo; puppis"	9
+642	"stat. ach. 1.72"	"Thesea? — **si** quis **adhuc** undis honor, obrue puppes,"	"verg. aen. 2.142"	"per **si** qua est quae restet **adhuc** mortalibus usquam"	"si; adhuc"	7
+643	"stat. ach. 1.72"	"Thesea? — **si** **quis** **adhuc** undis honor, obrue puppes,"	"verg. aen. 4.319"	"oro, **si** **quis** **adhuc** precibus locus---exue mentem."	"si; queo; adhuc"	8
+644	"stat. ach. 1.72"	"Thesea? — **si** **quis** adhuc undis honor, obrue puppes,"	"verg. aen. 4.328"	"ante fugam suboles, **si** **quis** mihi parvulus aula"	"si; queo"	6
+645	"stat. ach. 1.72"	"Thesea? — **si** **quis** adhuc undis honor, obrue puppes,"	"verg. aen. 4.684"	"abluam, et, extremus **si** **quis** super halitus errat,"	"si; queo"	6
+646	"stat. ach. 1.72"	"Thesea? — **si** quis adhuc undis **honor**, obrue puppes,"	"verg. aen. 5.347"	"ultima, **si** primi Salio reddentur **honores**."	"si; honor"	7
+647	"stat. ach. 1.72"	"Thesea? — **si** **quis** adhuc undis honor, obrue puppes,"	"verg. aen. 5.410"	"”Quid, **si** **quis** caestus ipsius et Herculis arma"	"si; queo"	6
+648	"stat. ach. 1.72"	"Thesea? — si quis adhuc **undis** honor, obrue **puppes**,"	"verg. aen. 6.339"	"exciderat **puppi** mediis effusus in **undis**."	"unda; puppis"	8
+649	"stat. ach. 1.72"	"Thesea? — **si** **quis** adhuc undis honor, obrue puppes,"	"verg. aen. 7.235"	"**sive** fide seu **quis** bello est expertus et armis:"	"si; queo"	7
+650	"stat. ach. 1.72"	"Thesea? — si quis adhuc **undis** honor, obrue **puppes**,"	"verg. aen. 10.247"	"haud ignara modi **puppim**: fugit illa per **undas**"	"unda; puppis"	8
+651	"stat. ach. 1.72"	"Thesea? — **si** quis **adhuc** undis honor, obrue puppes,"	"verg. aen. 11.419"	"**Sin** et opes nobis et **adhuc** intacta iuventus"	"si; adhuc"	7
+652	"stat. ach. 1.72"	"Thesea? — **si** quis adhuc **undis** honor, obrue puppes,"	"verg. aen. 12.204"	"avertet, non, **si** tellurem effundat in **undas**"	"si; unda"	6
+653	"stat. ach. 1.72"	"Thesea? — **si** quis adhuc undis **honor**, obrue puppes,"	"verg. aen. 12.778"	"terra tene, colui vestros **si** semper **honores**,"	"si; honor"	7
+654	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 1.77"	"explorare labor; mihi iussa capessere **fas** **est**."	"fas-for; sum"	8
+655	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 1.586"	"Vix ea **fatus** **erat**, cum circumfusa repente"	"for; sum"	8
+656	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 2.6"	"et quorum pars magna **fui**.  Quis talia **fando**"	"for; sum"	9
+657	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 2.54"	"Et, si **fata** deum, si mens non laeva **fuisset**,"	"for; sum"	7
+658	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 2.246"	"Tunc etiam **fatis** aperit Cassandra **futuris**"	"for; sum"	8
+659	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 2.323"	"Vix ea **fatus** **eram**, gemitu cum talia reddit:"	"for; sum"	9
+660	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 2.433"	"vitavisse vices Danaum, et, si **fata** **fuissent**"	"for; sum"	9
+661	"stat. ach. 1.73"	"aut permitte fretum! **nulla** inclementia: fas **sit**"	"verg. aen. 2.439"	"bella **forent**, **nulli** tota morerentur in urbe."	"nullus; sum"	9
+662	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 2.506"	"Forsitan et Priami **fuerint** quae **fata** requiras."	"for; sum"	9
+663	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 2.692"	"Vix ea **fatus** **erat** senior, subitoque fragore"	"for; sum"	8
+664	"stat. ach. 1.73"	"aut permitte fretum! **nulla** inclementia: fas **sit**"	"verg. aen. 2.701"	"“Iam iam **nulla** mora **est**; sequor et qua ducitis adsum."	"nullus; sum"	7
+665	"stat. ach. 1.73"	"**aut** permitte fretum! nulla inclementia: **fas** sit"	"verg. aen. 2.779"	"**fas**, **aut** ille sinit superi regnator Olympi."	"fas-for; aut"	7
+666	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 3.90"	"Vix ea **fatus** **eram**: tremere omnia visa repente,"	"for; sum"	9
+667	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 3.608"	"haerebat.  Qui **sit**, **fari**, quo sanguine cretus,"	"for; sum"	9
+668	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 3.655"	"Vix ea **fatus** **erat**, summo cum monte videmus"	"for; sum"	8
+669	"stat. ach. 1.73"	"aut permitte fretum! **nulla** inclementia: fas **sit**"	"verg. aen. 4.35"	"**Esto**: aegram **nulli** quondam flexere mariti,"	"nullus; sum"	8
+670	"stat. ach. 1.73"	"**aut** permitte fretum! nulla inclementia: fas **sit**"	"verg. aen. 4.98"	"Sed quis **erit** modus, **aut** quo nunc certamine tanto?"	"aut; sum"	6
+671	"stat. ach. 1.73"	"**aut** permitte fretum! nulla inclementia: fas **sit**"	"verg. aen. 4.317"	"si bene quid de te merui, **fuit** **aut** tibi quicquam"	"aut; sum"	6
+672	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 4.350"	"invidia **est**? Et nos **fas** extera quaerere regna."	"fas-for; sum"	7
+673	"stat. ach. 1.73"	"**aut** permitte fretum! nulla inclementia: fas **sit**"	"verg. aen. 4.595"	"Quid loquor, **aut** ubi **sum**? Quae mentem insania mutat?"	"aut; sum"	7
+674	"stat. ach. 1.73"	"aut permitte fretum! **nulla** inclementia: fas **sit**"	"verg. aen. 4.624"	"munera. **Nullus** amor populis, nec foedera **sunto**."	"nullus; sum"	9
+675	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 5.800"	"“**Fas** omne **est**, Cytherea, meis te fidere regnis,"	"fas-for; sum"	8
+676	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 6.45"	"Ventum **erat** ad limen, cum virgo. “Poscere **fata**"	"for; sum"	7
+677	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 6.63"	"Vos quoque Pergameae iam **fas** **est** parcere genti,"	"fas-for; sum"	8
+678	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 6.190"	"Vix ea **fatus** **erat**, geminae cum forte columbae"	"for; sum"	8
+679	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 6.266"	"**sit** mihi **fas** audita loqui; **sit** numine vestro"	"fas-for; sum"	8
+680	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 6.321"	"Olli sic breviter **fata** **est** longaeva sacerdos:"	"for; sum"	8
+681	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 6.372"	"Talia **fatus** **erat**, coepit cum talia vates:"	"for; sum"	8
+682	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 6.398"	"Quae contra breviter **fata** **est** Amphrysia vates:"	"for; sum"	8
+683	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 6.466"	"Quem fugis? Extremum **fato**, quod te adloquor, hoc **est**.“"	"for; sum"	8
+684	"stat. ach. 1.73"	"aut permitte fretum! **nulla** inclementia: **fas** sit"	"verg. aen. 6.563"	"**nulli** **fas** casto sceleratum insistere limen;"	"fas-for; nullus"	8
+685	"stat. ach. 1.73"	"aut permitte fretum! **nulla** inclementia: fas **sit**"	"verg. aen. 7.51"	"**nulla** **fuit** primaque oriens erepta iuventa **est**."	"nullus; sum"	7
+686	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 7.79"	"namque **fore** inlustrem fama **fatisque** canebant"	"for; sum"	8
+687	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 8.397"	"tum quoque **fas** nobis Teucros armare **fuisset**:"	"fas-for; sum"	8
+688	"stat. ach. 1.73"	"aut permitte fretum! **nulla** inclementia: **fas** sit"	"verg. aen. 8.502"	"**nulli** **fas** Italo tantam subiungere gentem:"	"fas-for; nullus"	8
+689	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 8.520"	"Vix ea **fatus** **erat**, defixique ora tenebant"	"for; sum"	8
+690	"stat. ach. 1.73"	"**aut** permitte fretum! nulla inclementia: **fas** sit"	"verg. aen. 9.94"	"”O genetrix, quo **fata** vocas, **aut** quid petis istis?"	"for; aut"	6
+691	"stat. ach. 1.73"	"aut permitte fretum! **nulla** inclementia: fas **sit**"	"verg. aen. 10.44"	"Si **nulla** **est** regio, Teucris quam det tua coniunx"	"nullus; sum"	7
+692	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 10.67"	"Italiam petiit **fatis** auctoribus, **esto**,"	"for; sum"	8
+693	"stat. ach. 1.73"	"**aut** permitte fretum! nulla inclementia: fas **sit**"	"verg. aen. 10.69"	"hortati **sumus** **aut** vitam committere ventis?"	"aut; sum"	7
+694	"stat. ach. 1.73"	"aut permitte fretum! **nulla** inclementia: fas **sit**"	"verg. aen. 10.108"	"Tros Rutulusne **fuat** **nullo** discrimine habebo."	"nullus; sum"	9
+695	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 10.344"	"**est** licitum, magnique **femur** perstrinxit Achatae."	"for; sum"	8
+696	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 10.501"	"Nescia mens hominum **fati** sortisque **futurae**"	"for; sum"	9
+697	"stat. ach. 1.73"	"**aut** permitte fretum! nulla inclementia: **fas** sit"	"verg. aen. 10.559"	"alitibus linquere **feris** **aut** gurgite mersum"	"for; aut"	8
+698	"stat. ach. 1.73"	"**aut** permitte fretum! **nulla** inclementia: fas **sit**"	"verg. aen. 10.864"	"ultor **eris** mecum **aut**, aperit si **nulla** viam vis,"	"aut; nullus; sum"	8
+699	"stat. ach. 1.73"	"**aut** permitte fretum! nulla inclementia: fas **sit**"	"verg. aen. 11.847"	"per gentis **erit** **aut** famam patieris inultae."	"aut; sum"	6
+700	"stat. ach. 1.73"	"aut permitte fretum! **nulla** inclementia: fas **sit**"	"verg. aen. 12.11"	"”**Nulla** mora in Turno; nihil **est** quod dicta retractent"	"nullus; sum"	7
+701	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 12.28"	"**fas** **erat**, idque omnes divique hominesque canebant."	"fas-for; sum"	8
+702	"stat. ach. 1.73"	"aut permitte fretum! nulla inclementia: **fas** **sit**"	"verg. aen. 12.650"	"Vix ea **fatus** **erat**: medios volat ecce per hostis"	"for; sum"	8
+703	"stat. ach. 1.73"	"aut permitte fretum! **nulla** inclementia: **fas** sit"	"verg. aen. 12.819"	"Illud te, **nulla** **fati** quod lege tenetur,"	"for; nullus"	8
+704	"stat. ach. 1.73"	"**aut** permitte fretum! nulla inclementia: fas **sit**"	"verg. aen. 12.889"	"“Quae nunc deinde mora **est**? **Aut** quid iam, Turne, retractas?"	"aut; sum"	6
+705	"stat. ach. 1.74"	"**pro** **nato** timuisse mihi. da pellere luctus,"	"verg. aen. 3.435"	"unum illud tibi, **nate** dea, **proque** omnibus unum"	"pro; natus-no"	9
+706	"stat. ach. 1.74"	"**pro** nato timuisse mihi. **da** pellere luctus,"	"verg. aen. 5.483"	"”Hanc tibi, Eryx, meliorem animam **pro** morte **Daretis**"	"pro; do"	9
+707	"stat. ach. 1.74"	"**pro** nato timuisse mihi. **da** pellere luctus,"	"verg. aen. 5.815"	"unum **pro** multis **dabitur** caput.”"	"pro; do"	8
+708	"stat. ach. 1.74"	"pro **nato** timuisse mihi. **da** pellere luctus,"	"verg. aen. 6.116"	"idem orans mandata **dabat**. **Gnatique** patrisque,"	"do; natus"	9
+709	"stat. ach. 1.74"	"pro **nato** timuisse mihi. da pellere **luctus**,"	"verg. aen. 6.868"	"”O **gnate**, ingentem **luctum** ne quaere tuorum;"	"luctus-lugeo; natus"	10
+710	"stat. ach. 1.74"	"pro **nato** timuisse mihi. **da** pellere luctus,"	"verg. aen. 9.83"	"vocibus his adfata Iovem: ”**Da**, **nate**, petenti,"	"do; natus-no"	8
+711	"stat. ach. 1.75"	"nec tibi de tantis placeat me **fluctibus** **unum**"	"verg. aen. 1.584"	"**Unus** abest, medio in **fluctu** quem vidimus ipsi"	"fluctus; unus"	8
+712	"stat. ach. 1.75"	"nec tibi de **tantis** **placeat** me fluctibus unum"	"verg. aen. 2.659"	"Si nihil ex **tanta** Superis **placet** urbe relinqui,"	"tantus; placeo"	9
+713	"stat. ach. 1.75"	"nec tibi de **tantis** placeat me fluctibus **unum**"	"verg. aen. 5.814"	"**Unus** erit **tantum**, amissum quem gurgite quaeres;"	"tantus; unus"	7
+714	"stat. ach. 1.75"	"nec tibi **de** **tantis** placeat me fluctibus unum"	"verg. aen. 6.502"	"Cui **tantum** **de** te licuit? Mihi fama suprema"	"de; tantus"	7
+715	"stat. ach. 1.75"	"nec tibi **de** tantis placeat me fluctibus **unum**"	"verg. aen. 7.346"	"Huic dea caeruleis **unum** **de** crinibus anguem"	"de; unus"	7
+716	"stat. ach. 1.75"	"nec tibi de **tantis** placeat me fluctibus **unum**"	"verg. aen. 10.529"	"vertitur aut anima **una** dabit discrimina **tanta**.“"	"tantus; unus"	7
+717	"stat. ach. 1.75"	"nec tibi de **tantis** **placeat** me fluctibus unum"	"verg. aen. 11.435"	"idque **placet** **tantumque** bonis communibus obsto,"	"tantus; placeo"	9
+718	"stat. ach. 1.75"	"nec tibi de **tantis** **placeat** me fluctibus unum"	"verg. aen. 12.503"	"expediat? **Tanton** **placuit** concurrere motu."	"tantus; placeo"	10
+719	"stat. ach. 1.75"	"nec tibi de **tantis** placeat me **fluctibus** unum"	"verg. aen. 12.831"	"irarum **tantos** volvis sub pectore **fluctus**."	"tantus; fluctus"	7
+720	"stat. ach. 1.76"	"**litus** et **Iliaci** scopulos habitare sepulcri.”"	"verg. aen. 3.280"	"Actiaque **Iliacis** celebramus **litora** ludis."	"litus; iliacus"	8
+721	"stat. ach. 1.76"	"**litus** et Iliaci **scopulos** habitare sepulcri.”"	"verg. aen. 3.536"	"turriti **scopuli**, refugitque ab **litore** templum."	"scopulus; litus"	8
+722	"stat. ach. 1.76"	"**litus** et Iliaci scopulos **habitare** sepulcri.”"	"verg. aen. 3.643"	"centum alii curva haec **habitant** ad **litora** volgo"	"habito; litus"	8
+723	"stat. ach. 1.76"	"**litus** et Iliaci scopulos **habitare** sepulcri.”"	"verg. aen. 11.265"	"Idomenei? Libycone **habitantis** **litore** Locros?"	"habito; litus"	9
+724	"stat. ach. 1.77"	"**Orabat** laniata genas et **pectore** nudo"	"verg. aen. 4.673"	"unguibus **ora** soror foedans et **pectora** pugnis"	"pectus; oro"	7
+725	"stat. ach. 1.77"	"Orabat **laniata** **genas** et pectore nudo"	"verg. aen. 12.606"	"et roseas **laniata** **genas**, tum cetera circum"	"lanio; gena-genae"	10
+726	"stat. ach. 1.77"	"**Orabat** laniata genas et **pectore** nudo"	"verg. aen. 12.871"	"unguibus **ora** soror foedans et **pectora** pugnis:"	"pectus; oro"	7
+727	"stat. ach. 1.78"	"caeruleis **obstabat** equis, **sed** rector aquarum"	"verg. aen. 7.58"	"**sed** variis portenta deum terroribus **obstant**."	"sed; obsto"	8
+728	"stat. ach. 1.79"	"invitat curru **dictisque** ita **mulcet** amicis:"	"verg. aen. 1.153"	"ille regit **dictis** animos, et pectora **mulcet**,---"	"mulceo-mulco; dico-dicte-dictum"	9
+729	"stat. ach. 1.79"	"invitat curru **dictisque** ita **mulcet** amicis:"	"verg. aen. 1.197"	"dividit, et **dictis** maerentia pectora **mulcet**:"	"mulceo-mulco; dico-dicte-dictum"	9
+730	"stat. ach. 1.79"	"invitat **curru** dictisque ita mulcet **amicis**:"	"verg. aen. 1.486"	"ut spolia, ut **currus**, utque ipsum corpus **amici**,"	"amicus; currus"	8
+731	"stat. ach. 1.79"	"invitat curru **dictisque** **ita** mulcet **amicis**:"	"verg. aen. 2.147"	"vincla iubet Priamus, **dictisque** **ita** fatur **amicis**:"	"ita-ito; dico-dicte-dictum; amica-amicus"	9
+732	"stat. ach. 1.79"	"invitat curru **dictisque** ita **mulcet** amicis:"	"verg. aen. 5.464"	"eripuit **mulcens** **dictis**, ac talia fatur:"	"dico-dicte-dictum; mulceo"	10
+733	"stat. ach. 1.79"	"invitat curru **dictisque** ita mulcet **amicis**:"	"verg. aen. 5.719"	"Talibus incensus **dictis** senioris **amici**,"	"amicus; dico-dicte-dictum"	8
+734	"stat. ach. 1.79"	"invitat curru **dictisque** ita mulcet **amicis**:"	"verg. aen. 5.770"	"Quos bonus Aeneas **dictis** solatur **amicis**,"	"dico-dicte-dictum; amica-amicus"	8
+735	"stat. ach. 1.79"	"invitat curru **dictisque** ita mulcet **amicis**:"	"verg. aen. 8.126"	"Tum regem Aeneas **dictis** adfatur **amicis**:"	"dico-dicte-dictum; amica-amicus"	8
+736	"stat. ach. 1.79"	"invitat curru **dictisque** ita mulcet **amicis**:"	"verg. aen. 10.466"	"Tum Genitor natum **dictis** adfatur **amicis**:"	"dico-dicte-dictum; amica-amicus"	8
+737	"stat. ach. 1.79"	"invitat curru **dictisque** **ita** mulcet amicis:"	"verg. aen. 11.242"	"et Venulus **dicto** parens **ita** farier infit:"	"ita-ito; dico-dictum"	9
+738	"stat. ach. 1.79"	"invitat **curru** **dictisque** ita mulcet amicis:"	"verg. aen. 12.681"	"**Dixit** et e **curru** saltum dedit ocius arvis"	"dico; currus"	8
+739	"stat. ach. 1.80"	"“ne **pete** Dardaniam frustra, Theti, mergere **classem**:"	"verg. aen. 4.313"	"Troia per undosum **peteretur** **classibus** aequor"	"peto; classis"	9
+740	"stat. ach. 1.80"	"“**ne** pete Dardaniam **frustra**, Theti, mergere classem:"	"verg. aen. 4.415"	"**ne** quid inexpertum **frustra** moritura relinquat."	"ne-neo; frustra-frustror"	7
+741	"stat. ach. 1.80"	"“**ne** **pete** Dardaniam frustra, Theti, mergere classem:"	"verg. aen. 7.96"	"”**Ne** **pete** conubiis natam sociare Latinis,"	"ne-neo; peto"	9
+742	"stat. ach. 1.80"	"“ne **pete** Dardaniam frustra, Theti, mergere **classem**:"	"verg. aen. 9.81"	"Aeneas **classem** et pelagi **petere** alta parabat,"	"peto; classis"	8
+743	"stat. ach. 1.80"	"“ne pete **Dardaniam** frustra, Theti, mergere **classem**:"	"verg. aen. 9.88"	"has ego **Dardanio** iuveni, cum **classis** egeret,"	"dardanius; classis"	8
+744	"stat. ach. 1.81"	"**fata** **vetant**, ratus ordo deis miscere cruentas"	"verg. aen. 1.39"	"Quippe **vetor** **fatis**. Pallasne exurere classem"	"ueto; fatum-for"	10
+745	"stat. ach. 1.81"	"fata vetant, **ratus** ordo **deis** miscere cruentas"	"verg. aen. 1.229"	"adloquitur Venus: “O qui **res** hominumque **deumque**"	"reor; deus"	9
+746	"stat. ach. 1.81"	"**fata** vetant, ratus ordo **deis** miscere cruentas"	"verg. aen. 1.382"	"matre **dea** monstrante viam, data **fata** secutus;"	"dea; fatum-for"	6
+747	"stat. ach. 1.81"	"**fata** vetant, ratus ordo **deis** miscere cruentas"	"verg. aen. 1.543"	"at sperate **deos** memores **fandi** atque nefandi."	"for; deus"	7
+748	"stat. ach. 1.81"	"**fata** vetant, ratus ordo **deis** miscere cruentas"	"verg. aen. 2.54"	"Et, si **fata** **deum**, si mens non laeva fuisset,"	"fatum-for; deus"	7
+749	"stat. ach. 1.81"	"**fata** vetant, ratus ordo **deis** miscere cruentas"	"verg. aen. 2.257"	"extulerat, **fatisque** **deum** defensus iniquis"	"fatum-for; deus"	8
+750	"stat. ach. 1.81"	"**fata** vetant, ratus ordo **deis** miscere cruentas"	"verg. aen. 3.375"	"auspiciis manifesta fides: sic **fata** **deum** rex"	"fatum-for; deus"	7
+751	"stat. ach. 1.81"	"**fata** **vetant**, ratus ordo deis miscere cruentas"	"verg. aen. 3.380"	"scire Helenum **farique** **vetat** Saturnia Iuno."	"ueto; for"	10
+752	"stat. ach. 1.81"	"**fata** vetant, ratus ordo **deis** miscere cruentas"	"verg. aen. 3.717"	"**fata** renarrabat **divom**, cursusque docebat."	"fatum-for; deus"	7
+753	"stat. ach. 1.81"	"fata vetant, **ratus** ordo **deis** miscere cruentas"	"verg. aen. 4.45"	"**Dis** equidem auspicibus **reor** et Iunone secunda"	"reor; deus"	8
+754	"stat. ach. 1.81"	"**fata** vetant, ratus ordo **deis** miscere cruentas"	"verg. aen. 4.440"	"**fata** obstant, placidasque viri **deus** obstruit auris."	"fatum-for; deus"	6
+755	"stat. ach. 1.81"	"**fata** vetant, ratus ordo **deis** miscere cruentas"	"verg. aen. 4.519"	"testatur moritura **deos** et conscia **fati**"	"fatum-for; deus"	8
+756	"stat. ach. 1.81"	"**fata** vetant, ratus ordo **deis** miscere cruentas"	"verg. aen. 4.651"	"”Dulces exuviae, dum **fata** **deusque** sinebant,"	"fatum-for; deus"	9
+757	"stat. ach. 1.81"	"fata **vetant**, ratus **ordo** deis miscere cruentas"	"verg. aen. 5.53"	"annua **vota** tamen sollemnisque **ordine** pompas"	"ueto; ordo"	8
+758	"stat. ach. 1.81"	"fata vetant, **ratus** ordo **deis** miscere cruentas"	"verg. aen. 5.56"	"haud equidem sine mente, **reor**, sine numine **divom**,"	"reor; deus"	8
+759	"stat. ach. 1.81"	"**fata** vetant, ratus **ordo** **deis** miscere cruentas"	"verg. aen. 5.707"	"magna **deum**, vel quae **fatorum** posceret **ordo**;"	"fatum-for; ordo; deus"	9
+760	"stat. ach. 1.81"	"**fata** vetant, ratus ordo **deis** miscere cruentas"	"verg. aen. 5.709"	"”Nate **dea**, quo **fata** trahunt retrahuntque, sequamur;"	"dea; fatum-for"	7
+761	"stat. ach. 1.81"	"fata **vetant**, ratus ordo **deis** miscere cruentas"	"verg. aen. 6.51"	"iam propiore **dei**. “Cessas in **vota** precesque,"	"ueto; deeo-deus"	8
+762	"stat. ach. 1.81"	"**fata** vetant, ratus ordo **deis** miscere cruentas"	"verg. aen. 6.376"	"Desine **fata** **deum** flecti sperare precando."	"fatum-for; deus"	7
+763	"stat. ach. 1.81"	"**fata** vetant, ratus ordo **deis** miscere cruentas"	"verg. aen. 7.50"	"filius huic **fato** **divom** prolesque virilis"	"fatum-for; deus"	8
+764	"stat. ach. 1.81"	"fata **vetant**, ratus ordo **deis** miscere cruentas"	"verg. aen. 7.204"	"sponte sua **veterisque** **dei** se more tenentem."	"ueto; deeo-deus"	9
+765	"stat. ach. 1.81"	"**fata** vetant, ratus ordo **deis** miscere cruentas"	"verg. aen. 7.239"	"sed nos **fata** **deum** vestras exquirere terras"	"fatum-for; deus"	7
+766	"stat. ach. 1.81"	"**fata** vetant, ratus ordo **deis** miscere cruentas"	"verg. aen. 7.584"	"contra **fata** **deum** perverso numine poscunt,"	"fatum-for; deus"	7
+767	"stat. ach. 1.81"	"fata vetant, ratus ordo **deis** **miscere** cruentas"	"verg. aen. 7.661"	"**mixta** **deo** mulier, postquam Laurentia victor"	"misceo; deus"	9
+768	"stat. ach. 1.81"	"**fata** **vetant**, ratus ordo deis miscere cruentas"	"verg. aen. 8.398"	"nec pater omnipotens Troiam nec **fata** **vetabant**"	"ueto; fatum-for"	10
+769	"stat. ach. 1.81"	"fata **vetant**, ratus ordo **deis** miscere cruentas"	"verg. aen. 11.4"	"**vota** **deum** primo victor solvebat Eoo."	"ueto; deus"	8
+770	"stat. ach. 1.81"	"fata vetant, **ratus** ordo **deis** miscere cruentas"	"verg. aen. 12.188"	"(ut potius **reor** et potius **di** numine firment),"	"reor; deus"	8
+771	"stat. ach. 1.81"	"fata **vetant**, ratus ordo **deis** miscere cruentas"	"verg. aen. 12.780"	"Dixit opemque **dei** non cassa in **vota** vocavit."	"ueto; deeo-deus"	8
+772	"stat. ach. 1.82"	"**Europamque** **Asiamque** manus, consultaque belli"	"verg. aen. 1.385"	"**Europa** atque **Asia** pulsus.“ Nec plura querentem"	"europe; asia-asius"	10
+773	"stat. ach. 1.82"	"Europamque **Asiamque** manus, consultaque **belli**"	"verg. aen. 2.193"	"ultro **Asiam** magno Pelopea ad moenia **bello**"	"bellum-bellus; asia-asius"	8
+774	"stat. ach. 1.82"	"Europamque Asiamque **manus**, consultaque **belli**"	"verg. aen. 2.315"	"sed glomerare **manum** **bello** et concurrere in arcem"	"bellum-bellus; manus"	7
+775	"stat. ach. 1.82"	"Europamque Asiamque **manus**, consultaque **belli**"	"verg. aen. 5.623"	"”O miserae, quas non **manus**“ inquit ”Achaca **bello**"	"bellum-bellus; manus"	6
+776	"stat. ach. 1.82"	"**Europamque** **Asiamque** manus, consultaque belli"	"verg. aen. 7.224"	"**Europae** atque **Asiae** fatis concurrerit orbis,"	"europe; asia-asius"	10
+777	"stat. ach. 1.82"	"Europamque Asiamque **manus**, consultaque **belli**"	"verg. aen. 7.455"	"**bella** **manu** letumque gero.“"	"bellum-bellus; manus"	7
+778	"stat. ach. 1.82"	"Europamque Asiamque **manus**, consultaque **belli**"	"verg. aen. 7.604"	"sive Getis inferre **manu** lacrimabile **bellum**"	"bellum-bellus; manus"	7
+779	"stat. ach. 1.82"	"Europamque Asiamque **manus**, consultaque **belli**"	"verg. aen. 7.664"	"Pila **manu** saevosque gerunt in **bella** dolones"	"bellum-bellus; manus"	6
+780	"stat. ach. 1.82"	"**Europamque** **Asiamque** manus, consultaque belli"	"verg. aen. 10.91"	"**Europamque** **Asiamque** et foedera solvere furto?"	"europe; asia-asius"	10
+781	"stat. ach. 1.82"	"Europamque Asiamque **manus**, consultaque **belli**"	"verg. aen. 11.116"	"Si **bellum** finire **manu**, si pellere Teucros"	"bellum-bellus; manus"	7
+782	"stat. ach. 1.82"	"Europamque Asiamque **manus**, consultaque **belli**"	"verg. aen. 11.379"	"tum, cum **bella** **manus** poscunt, patribusque vocatis"	"bellum-bellus; manus"	7
+783	"stat. ach. 1.82"	"Europamque Asiamque **manus**, consultaque **belli**"	"verg. aen. 11.505"	"Me sine prima **manu** temptare pericula **belli**"	"bellius-bellum-bellus; manus"	7
+784	"stat. ach. 1.83"	"**Iuppiter** et tristes edixit caedibus **annos**,"	"verg. aen. 8.560"	"”O mihi praeteritos referat si **Iuppiter** **annos**,"	"annus; iuppiter"	7
+785	"stat. ach. 1.84"	"quem tu illic **natum** Sigeo in pulvere, **quanta**"	"verg. aen. 6.693"	"accipio! **quantis** iactatum, **nate**, periclis!"	"quantus; natus"	9
+786	"stat. ach. 1.84"	"quem tu illic **natum** Sigeo in pulvere, **quanta**"	"verg. aen. 7.253"	"**quantum** in conubio **natae** thalamoque moratur,"	"quantus; natus"	8
+787	"stat. ach. 1.85"	"**aspicies** victrix Phrygiarum funera **matrum**,"	"verg. aen. 2.786"	"**aspiciam**, aut Graiis servitum **matribus** ibo,"	"aspicio; mater"	9
+788	"stat. ach. 1.85"	"aspicies victrix **Phrygiarum** funera **matrum**,"	"verg. aen. 7.139"	"Idaeumque Iovem **Phrygiamque** ex ordine **matrem**"	"phrygius; mater"	9
+789	"stat. ach. 1.85"	"aspicies victrix Phrygiarum **funera** **matrum**,"	"verg. aen. 9.486"	"alitibusque iaces, nec te, tua **funera** **mater**"	"mater; funero-funus"	8
+790	"stat. ach. 1.86"	"cum tuus Aeacides tepido modo **sanguine** **Teucros**"	"verg. aen. 1.235"	"hinc fore ductores, revocato a **sanguine** **Teucri**,"	"sanguis; teucer"	8
+791	"stat. ach. 1.86"	"**cum** tuus Aeacides tepido modo **sanguine** Teucros"	"verg. aen. 2.72"	"Dardanidae infensi poenas **cum** **sanguine** poscunt?”"	"cum; sanguis"	6
+792	"stat. ach. 1.86"	"cum tuus Aeacides tepido modo **sanguine** **Teucros**"	"verg. aen. 2.366"	"limina.  Nec soli poenas dant **sanguine** **Teucri**;"	"sanguis; teucer"	8
+793	"stat. ach. 1.86"	"**cum** tuus Aeacides tepido modo **sanguine** Teucros"	"verg. aen. 2.532"	"concidit, ac multo vitam **cum** **sanguine** fudit."	"cum; sanguis"	6
+794	"stat. ach. 1.86"	"cum tuus Aeacides tepido modo **sanguine** **Teucros**"	"verg. aen. 4.230"	"Italiam regeret, genus alto a **sanguine** **Teucri**"	"sanguis; teucer"	8
+795	"stat. ach. 1.86"	"**cum** tuus Aeacides tepido modo **sanguine** Teucros"	"verg. aen. 4.621"	"Haec precor, hanc vocem extremam **cum** **sanguine** fundo."	"cum; sanguis"	6
+796	"stat. ach. 1.86"	"**cum** tuus Aeacides tepido modo **sanguine** Teucros"	"verg. aen. 5.328"	"finem adventabant, levi **cum** **sanguine** Nisus"	"cum; sanguis"	6
+797	"stat. ach. 1.86"	"**cum** **tuus** Aeacides tepido modo sanguine Teucros"	"verg. aen. 5.804"	"Aeneae mihi cura **tui**. **Cum** Troia Achilles"	"cum; tuus"	9
+798	"stat. ach. 1.86"	"cum tuus Aeacides tepido modo **sanguine** **Teucros**"	"verg. aen. 6.500"	"”Deiphobe armipotens, genus alto a **sanguine** **Teucri**"	"sanguis; teucer"	8
+799	"stat. ach. 1.86"	"cum tuus Aeacides tepido modo **sanguine** **Teucros**"	"verg. aen. 7.547"	"Quando quidem Ausonio respersi **sanguine** **Teucros**,"	"sanguis; teucer"	8
+800	"stat. ach. 1.86"	"**cum** **tuus** Aeacides tepido modo sanguine Teucros"	"verg. aen. 8.72"	"tuque, o Thybri **tuo** genitor **cum** flumine sancto,"	"cum; tuus"	8
+801	"stat. ach. 1.86"	"**cum** tuus Aeacides tepido modo **sanguine** Teucros"	"verg. aen. 9.349"	"Purpuream vomit ille animam et **cum** **sanguine** mixta"	"cum; sanguis"	6
+802	"stat. ach. 1.86"	"cum **tuus** Aeacides tepido modo sanguine **Teucros**"	"verg. aen. 10.44"	"Si nulla est regio, **Teucris** quam det **tua** coniunx"	"tuus; teucer"	7
+803	"stat. ach. 1.86"	"cum tuus Aeacides tepido modo **sanguine** **Teucros**"	"verg. aen. 10.617"	"Nunc pereat **Teucrisque** pio det **sanguine** poenas."	"sanguis; teucer"	9
+804	"stat. ach. 1.86"	"**cum** tuus Aeacides tepido modo sanguine **Teucros**"	"verg. aen. 11.279"	"nec mihi **cum** **Teucris** ullum post eruta bellum"	"cum; teucer"	7
+805	"stat. ach. 1.86"	"cum **tuus** Aeacides tepido modo sanguine **Teucros**"	"verg. aen. 11.385"	"**Teucrorum** **tua** dextra dedit passimque tropaeis"	"tuus; teucer"	8
+806	"stat. ach. 1.86"	"cum **tuus** Aeacides tepido modo **sanguine** Teucros"	"verg. aen. 12.29"	"Victus amore **tui**, cognato **sanguine** victus"	"tuus; sanguis"	8
+807	"stat. ach. 1.87"	"undabit campos, **modo** crassa **exire** vetabit"	"verg. aen. 5.438"	"corpore tela **modo** atque oculis vigilantibus **exit**."	"exeo; modo-modus"	8
+808	"stat. ach. 1.87"	"**undabit** campos, **modo** crassa exire vetabit"	"verg. aen. 10.247"	"haud ignara **modi** puppim: fugit illa per **undas**"	"modus; undo"	9
+809	"stat. ach. 1.87"	"undabit **campos**, modo crassa **exire** vetabit"	"verg. aen. 11.903"	"Vix e conspectu **exierat** **campumque** tenebat,"	"campus; exeo"	10
+810	"stat. ach. 1.89"	"impelletque **manu** nostros, **opera** inrita, muros!"	"verg. aen. 1.455"	"artificumque **manus** inter se **operumque** laborem"	"opus; manus"	9
+811	"stat. ach. 1.89"	"impelletque manu **nostros**, opera inrita, **muros**!"	"verg. aen. 2.46"	"aut haec in **nostros** fabricata est machina **muros**"	"murus; noster"	8
+812	"stat. ach. 1.89"	"impelletque **manu** nostros, opera **inrita**, muros!"	"verg. aen. 2.459"	"tela **manu** miseri iactabant **inrita** Teucri."	"irrito-irritus; manus"	8
+813	"stat. ach. 1.89"	"impelletque manu **nostros**, **opera** inrita, muros!"	"verg. aen. 7.332"	"hanc **operam**, ne **noster** honos infractave cedat"	"noster; opera"	10
+814	"stat. ach. 1.89"	"impelletque **manu** **nostros**, opera inrita, muros!"	"verg. aen. 9.132"	"Terra autem in **nostris** **manibus**, tot milia gentes"	"noster; manus"	8
+815	"stat. ach. 1.89"	"impelletque **manu** nostros, opera inrita, **muros**!"	"verg. aen. 11.597"	"At **manus** interea **muris** Troiana propinquat"	"murus; manus"	7
+816	"stat. ach. 1.91"	"**credens** peperisse **Iovi**; nec inulta dolebis"	"verg. aen. 8.353"	"**credunt** se vidisse **Iovem**, cum saepe nigrantem"	"credo; iuppiter"	9
+817	"stat. ach. 1.92"	"cognatisque utere fretis: **dabo** **tollere** **fluctus**,"	"verg. aen. 1.66"	"et mulcere **dedit** **fluctus** et **tollere** vento,"	"tollo; do; fluctus"	9
+818	"stat. ach. 1.92"	"cognatisque utere fretis: dabo **tollere** **fluctus**,"	"verg. aen. 1.103"	"velum adversa ferit, **fluctusque** ad sidera **tollit**."	"tollo; fluctus"	8
+819	"stat. ach. 1.92"	"cognatisque **utere** fretis: **dabo** tollere fluctus,"	"verg. aen. 2.243"	"substitit, atque **utero** sonitum quater arma **dedere**:"	"do; uterus"	8
+820	"stat. ach. 1.92"	"cognatisque utere fretis: **dabo** **tollere** fluctus,"	"verg. aen. 5.369"	"ora **Dares**, magnoque virum se murmure **tollit**;"	"tollo; do"	8
+821	"stat. ach. 1.92"	"cognatisque utere fretis: **dabo** **tollere** fluctus,"	"verg. aen. 5.375"	"Talis prima **Dares** caput altum in proelia **tollit**,"	"tollo; do"	8
+822	"stat. ach. 1.92"	"cognatisque utere fretis: **dabo** **tollere** fluctus,"	"verg. aen. 6.370"	"**da** dextram misero, et tecum me **tolle** per undas,"	"tollo; do"	8
+823	"stat. ach. 1.92"	"cognatisque **utere** fretis: dabo tollere **fluctus**,"	"verg. aen. 7.528"	"**fluctus** **uti** primo coepit cum albescere vento,"	"utor; fluctus"	8
+824	"stat. ach. 1.92"	"cognatisque utere fretis: **dabo** **tollere** fluctus,"	"verg. aen. 8.541"	"Haec ubi dicta **dedit**, solio se **tollit** ab alto"	"tollo; do"	8
+825	"stat. ach. 1.93"	"**cum** reduces **Danai** nocturnaque signa Caphereus"	"verg. aen. 2.117"	"**cum** primum Iliacas, **Danai**, venistis ad oras;"	"cum; danaus"	7
+826	"stat. ach. 1.93"	"**cum** reduces **Danai** nocturnaque signa Caphereus"	"verg. aen. 2.466"	"**cum** sonitu trahit et **Danaum** super agmina late"	"cum; danaus"	7
+827	"stat. ach. 1.93"	"**cum** reduces **Danai** nocturnaque signa Caphereus"	"verg. aen. 4.425"	"non ego **cum** **Danais** Troianam exscindere gentem"	"cum; danaus"	8
+828	"stat. ach. 1.93"	"**cum** reduces **Danai** nocturnaque signa Caphereus"	"verg. aen. 9.154"	"Haud sibi **cum** **Danais** rem faxo et pube Pelasga"	"cum; danaus"	8
+829	"stat. ach. 1.94"	"exseret et **dirum** pariter quaeremus **Ulixen**.”"	"verg. aen. 2.261"	"Thessandrus Sthenelusque duces, et **dirus** **Ulixes**,"	"ulixes; dirus"	9
+830	"stat. ach. 1.94"	"exseret et **dirum** pariter quaeremus **Ulixen**.”"	"verg. aen. 2.762"	"custodes lecti Phoenix et **dirus** **Ulixes**"	"ulixes; dirus"	9
+831	"stat. ach. 1.95"	"Dixerat, illa gravi **vultum** **demissa** repulsa,"	"verg. aen. 1.561"	"Tum breviter Dido, **voltum** **demissa**, profatur:"	"uultus; demissus-demitto"	9
+832	"stat. ach. 1.95"	"Dixerat, illa gravi **vultum** **demissa** repulsa,"	"verg. aen. 3.320"	"Deiecit **vultum** et **demissa** voce locuta est:"	"uultus; demissus-demitto"	10
+833	"stat. ach. 1.95"	"**Dixerat**, illa gravi vultum **demissa** repulsa,"	"verg. aen. 4.428"	"cur mea **dicta** neget duras **demittere** in auris."	"dico; demitto"	8
+834	"stat. ach. 1.95"	"Dixerat, **illa** **gravi** vultum demissa repulsa,"	"verg. aen. 4.688"	"**Illa**, **graves** oculos conata attollere, rursus"	"illa; grauis"	9
+835	"stat. ach. 1.95"	"**Dixerat**, illa **gravi** vultum demissa repulsa,"	"verg. aen. 5.387"	"Hic **gravis** Entellum **dictis** castigat Acestes,"	"dico; grauis"	8
+836	"stat. ach. 1.95"	"**Dixerat**, **illa** gravi vultum demissa repulsa,"	"verg. aen. 11.595"	"**Dixit**; at **illa** levis caeli delapsa per auras"	"illa; dico"	7
+837	"stat. ach. 1.95"	"**Dixerat**, **illa** gravi vultum demissa repulsa,"	"verg. aen. 11.709"	"**Dixit**, at **illa** furens acrique adcensa dolore"	"illa; dico"	7
+838	"stat. ach. 1.96"	"quae iam excire **fretum** et ratibus bellare **parabat**"	"verg. aen. 1.557"	"at **freta** Sicaniae saltem sedesque **paratas**,"	"fretum-fretus; paro"	9
+839	"stat. ach. 1.96"	"quae iam excire fretum et ratibus **bellare** **parabat**"	"verg. aen. 8.400"	"Et nunc, si **bellare** **paras** atque haec tibi mens est,"	"bellor; paro"	10
+840	"stat. ach. 1.97"	"Iliacis, **alios** animo commenta **paratus**,"	"verg. aen. 1.705"	"centum **aliae** totidemque **pares** aetate ministri,"	"alius; paro"	9
+841	"stat. ach. 1.97"	"Iliacis, alios **animo** commenta **paratus**,"	"verg. aen. 2.61"	"obtulerat, fidens **animi** atque in utrumque **paratus**,"	"animus; paratus-paro"	9
+842	"stat. ach. 1.97"	"Iliacis, alios **animo** commenta **paratus**,"	"verg. aen. 2.799"	"Undique convenere, **animis** opibusque **parati**,"	"animus; paratus-paro"	9
+843	"stat. ach. 1.97"	"Iliacis, **alios** **animo** commenta paratus,"	"verg. aen. 6.411"	"Inde **alias** **animas**, quae per iuga longa sedebant,"	"alius; animo"	9
+844	"stat. ach. 1.97"	"Iliacis, **alios** **animo** commenta paratus,"	"verg. aen. 8.530"	"Obstipuere **animis** **alii**, sed Troius heros"	"animus; alii-alius"	8
+845	"stat. ach. 1.97"	"Iliacis, alios **animo** commenta **paratus**,"	"verg. aen. 10.259"	"atque **animos** aptent armis pugnaeque **parent** se."	"animus; paro"	8
+846	"stat. ach. 1.97"	"Iliacis, alios **animo** commenta **paratus**,"	"verg. aen. 11.18"	"Arma **parate** **animis** et spe praesumite bellum,"	"animus; paro"	10
+847	"stat. ach. 1.98"	"tristis **ad** Haemonias detorquet brachia **terras**,"	"verg. aen. 2.566"	"**ad** **terram** misere aut ignibus aegra dedere."	"ad; terra"	6
+848	"stat. ach. 1.98"	"tristis **ad** Haemonias detorquet brachia **terras**,"	"verg. aen. 3.93"	"Submissi petimus **terram**, et vox fertur **ad** auris:"	"ad; terra"	6
+849	"stat. ach. 1.98"	"tristis **ad** Haemonias **detorquet** brachia terras,"	"verg. aen. 4.196"	"Protinus **ad** regem cursus **detorquet** Iarban,"	"ad; detorqueo"	8
+850	"stat. ach. 1.98"	"**tristis** ad Haemonias detorquet brachia **terras**,"	"verg. aen. 4.271"	"quid struis, aut qua spe Libycis **teris** otia **terris**?"	"terra; tero; tero-terra"	9
+851	"stat. ach. 1.98"	"tristis **ad** Haemonias **detorquet** brachia terras,"	"verg. aen. 5.165"	"saxa timens proram pelagi **detorquet** **ad** undas."	"ad; detorqueo"	9
+852	"stat. ach. 1.98"	"tristis **ad** Haemonias detorquet brachia **terras**,"	"verg. aen. 5.243"	"**ad** **terram** fugit, et portu se condidit alto."	"ad; terra"	6
+853	"stat. ach. 1.98"	"tristis **ad** Haemonias detorquet **brachia** terras,"	"verg. aen. 5.427"	"**brachiaque** **ad** superas interritus extulit auras."	"ad; bracchium"	9
+854	"stat. ach. 1.98"	"tristis **ad** Haemonias detorquet brachia **terras**,"	"verg. aen. 5.447"	"ipse gravis graviterque **ad** **terram** pondere vasto"	"ad; terra"	6
+855	"stat. ach. 1.98"	"tristis **ad** Haemonias detorquet brachia **terras**,"	"verg. aen. 6.310"	"lapsa cadunt folia, aut **ad** **terram** gurgite ab alto"	"ad; terra"	6
+856	"stat. ach. 1.98"	"**tristis** ad Haemonias detorquet brachia **terras**,"	"verg. aen. 6.383"	"corde dolor **tristi**: gaudet cognomine **terrae**."	"tero-tristis; terra"	7
+857	"stat. ach. 1.98"	"tristis **ad** Haemonias detorquet brachia **terras**,"	"verg. aen. 9.542"	"Semineces **ad** **terram**, immani mole secuta,"	"ad; terra"	6
+858	"stat. ach. 1.98"	"tristis **ad** Haemonias detorquet brachia **terras**,"	"verg. aen. 11.501"	"**ad** **terram** defluxit equis; tum talia fatur:"	"ad; terra"	6
+859	"stat. ach. 1.98"	"tristis **ad** Haemonias detorquet brachia **terras**,"	"verg. aen. 11.625"	"nunc ruit **ad** **terram** scopulusque superiacit unda"	"ad; terra"	6
+860	"stat. ach. 1.98"	"tristis **ad** Haemonias detorquet brachia **terras**,"	"verg. aen. 11.828"	"**ad** **terram** non sponte fluens. Tum frigida toto"	"ad; terra"	6
+861	"stat. ach. 1.98"	"**tristis** **ad** Haemonias detorquet brachia terras,"	"verg. aen. 12.273"	"horum unum **ad** medium, **teritur** qua sutilis alvo"	"ad; tero"	9
+862	"stat. ach. 1.98"	"**tristis** **ad** Haemonias detorquet brachia terras,"	"verg. aen. 12.409"	"densa cadunt mediis. It **tristis** **ad** aethera clamor"	"tero-tristis; ad"	8
+863	"stat. ach. 1.98"	"tristis **ad** Haemonias detorquet brachia **terras**,"	"verg. aen. 12.451"	"Qualis ubi **ad** **terras** abrupto sidere nimbus"	"ad; terra"	6
+864	"stat. ach. 1.98"	"tristis **ad** Haemonias detorquet brachia **terras**,"	"verg. aen. 12.803"	"ventum **ad** supremum est. **Terris** agitare vel undis"	"ad; terra"	6
+865	"stat. ach. 1.98"	"tristis **ad** Haemonias detorquet brachia **terras**,"	"verg. aen. 12.855"	"Illa volat celerique **ad** **terram** turbine fertur."	"ad; terra"	6
+866	"stat. ach. 1.98"	"tristis **ad** Haemonias detorquet brachia **terras**,"	"verg. aen. 12.927"	"ingens **ad** **terram** duplicato poplite Turnus."	"ad; terra"	6
+867	"stat. ach. 1.99"	"**ter** **conata** manu, liquidum **ter** gressibus aequor"	"verg. aen. 2.792"	"**Ter** **conatus** ibi collo dare bracchia circum:"	"conor; ter"	9
+868	"stat. ach. 1.99"	"**ter** conata **manu**, liquidum **ter** gressibus aequor"	"verg. aen. 2.793"	"**ter** frustra comprensa **manus** effugit imago,"	"ter; manus"	7
+869	"stat. ach. 1.99"	"**ter** conata **manu**, liquidum **ter** gressibus aequor"	"verg. aen. 4.589"	"**terque** quaterque **manu** pectus percussa decorum,"	"ter; manus"	8
+870	"stat. ach. 1.99"	"**ter** **conata** manu, liquidum **ter** gressibus aequor"	"verg. aen. 6.700"	"**Ter** **conatus** ibi collo dare brachia circum,"	"conor; ter"	9
+871	"stat. ach. 1.99"	"**ter** conata **manu**, liquidum **ter** gressibus aequor"	"verg. aen. 6.701"	"**ter** frustra comprensa **manus** effugit imago,"	"ter; manus"	7
+872	"stat. ach. 1.99"	"**ter** **conata** manu, liquidum **ter** gressibus aequor"	"verg. aen. 10.685"	"**Ter** **conatus** utramque viam, **ter** maxima Iuno"	"conor; ter"	9
+873	"stat. ach. 1.99"	"**ter** conata **manu**, liquidum **ter** gressibus aequor"	"verg. aen. 10.886"	"tela **manu** iaciens, **ter** secum Trous heros"	"ter; manus"	7
+874	"stat. ach. 1.99"	"**ter** conata **manu**, liquidum **ter** gressibus aequor"	"verg. aen. 12.155"	"**terque** quaterque **manu** pectus percussit honestum."	"ter; manus"	8
+875	"stat. ach. 1.102"	"antra sinus **lateque** **deae** Sperchios abundat"	"verg. aen. 1.501"	"**fert** umero, gradiensque **deas** supereminet omnis:"	"fero; dea"	9
+876	"stat. ach. 1.102"	"**antra** sinus **lateque** deae Sperchios abundat"	"verg. aen. 6.42"	"Excisum Euboicae **latus** ingens rupis in **antrum**,"	"antrum; fero-latus"	8
+877	"stat. ach. 1.102"	"**antra** sinus **lateque** deae Sperchios abundat"	"verg. aen. 6.400"	"nec vim tela **ferunt**; licet ingens ianitor **antro**"	"antrum; fero"	8
+878	"stat. ach. 1.103"	"obvius et dulci vestigia **circuit** **unda**."	"verg. aen. 3.413"	"aequora **circuitu**: dextrum fuge litus et **undas**."	"unda-undo; circumeo"	9
