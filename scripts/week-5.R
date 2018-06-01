@@ -7,7 +7,7 @@
 # libraries
 
 # load base script
-source(file.path("R", "loeb.R"))
+source(file.path("scripts", "loeb.R"))
 
 #
 # functions
@@ -67,7 +67,7 @@ samples$src <- as.factor(samples$src)
 setkey(samples, src, class)
 
 # calculate all word frequencies for the corpus
-wf.corpus <- wc(samples$text), freq=F, remove.hapax=T)
+wf.corpus <- wc(samples$text, freq=F, remove.hapax=T)
 
 # build a feature set:
 #  - drop the top 50 words, take the next 2000
